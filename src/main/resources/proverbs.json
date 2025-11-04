@@ -1,0 +1,3957 @@
+[
+  {
+    "language": "English",
+    "proverb": "Actions speak louder than words.",
+    "translation": "N/A",
+    "meaning": "What people do shows who they are more than what they say.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "A bird in the hand is worth two in the bush.",
+    "translation": "N/A",
+    "meaning": "It's better to hold onto something you have than to risk it for something better.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "Look before you leap.",
+    "translation": "N/A",
+    "meaning": "Consider the consequences before taking action.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "The early bird catches the worm.",
+    "translation": "N/A",
+    "meaning": "Success comes to those who prepare and act early.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "Where there's a will, there's a way.",
+    "translation": "N/A",
+    "meaning": "If you are determined enough, you can find a way to achieve your goals.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "Two heads are better than one.",
+    "translation": "N/A",
+    "meaning": "Two people working together can solve a problem more easily than one person working alone.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "All that glitters is not gold.",
+    "translation": "N/A",
+    "meaning": "Not everything that looks attractive is valuable.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "Better late than never.",
+    "translation": "N/A",
+    "meaning": "It is better to arrive or do something late than to not do it at all.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "Every cloud has a silver lining.",
+    "translation": "N/A",
+    "meaning": "Every bad situation has some good aspect to it.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "Don't count your chickens before they hatch.",
+    "translation": "N/A",
+    "meaning": "Don't assume success until it is certain.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "If it ain't broke, don't fix it.",
+    "translation": "N/A",
+    "meaning": "Leave things alone if they are working well.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "Necessity is the mother of invention.",
+    "translation": "N/A",
+    "meaning": "A need or problem encourages creative efforts to solve the problem.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "Practice makes perfect.",
+    "translation": "N/A",
+    "meaning": "Doing something repeatedly is the only way to become good at it.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "A friend in need is a friend indeed.",
+    "translation": "N/A",
+    "meaning": "A true friend helps you when you really need help.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "The pen is mightier than the sword.",
+    "translation": "N/A",
+    "meaning": "Thinking and writing have more influence than military force or violence.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "When in Rome, do as the Romans do.",
+    "translation": "N/A",
+    "meaning": "When you are in a new place, adjust your behavior to fit the customs of that place.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "Slow and steady wins the race.",
+    "translation": "N/A",
+    "meaning": "A consistent, gradual effort is more successful than a fast, short burst of energy.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "Haste makes waste.",
+    "translation": "N/A",
+    "meaning": "Rushing a task can lead to mistakes and a poorer final outcome.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "Curiosity killed the cat.",
+    "translation": "N/A",
+    "meaning": "Being too inquisitive about others' affairs can be dangerous.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "You can't teach an old dog new tricks.",
+    "translation": "N/A",
+    "meaning": "People who have been doing something a certain way for a long time will not change their habits.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "Beggars can't be choosers.",
+    "translation": "N/A",
+    "meaning": "If you are receiving a gift or relying on someone else's generosity, you must take what is offered.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "Absence makes the heart grow fonder.",
+    "translation": "N/A",
+    "meaning": "Being apart from a loved one often strengthens your feelings for them.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "Don't bite the hand that feeds you.",
+    "translation": "N/A",
+    "meaning": "Do not harm or offend a person who provides you with support or benefits.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "Too many cooks spoil the broth.",
+    "translation": "N/A",
+    "meaning": "When too many people try to manage a task, the result is often poor.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "A rolling stone gathers no moss.",
+    "translation": "N/A",
+    "meaning": "A person who is always changing jobs or locations gains neither wealth nor stability.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "The best defense is a good offense.",
+    "translation": "N/A",
+    "meaning": "The most effective way to protect yourself is to attack first.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "An apple a day keeps the doctor away.",
+    "translation": "N/A",
+    "meaning": "Eating healthy food regularly will keep you well.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "Look on the bright side.",
+    "translation": "N/A",
+    "meaning": "Be optimistic, even in a bad situation.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "Honesty is the best policy.",
+    "translation": "N/A",
+    "meaning": "Telling the truth is the most practical and effective course of action.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "Don't put all your eggs in one basket.",
+    "translation": "N/A",
+    "meaning": "Don't risk everything on a single venture.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "Great minds think alike.",
+    "translation": "N/A",
+    "meaning": "Intelligent people often have the same ideas.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "Misery loves company.",
+    "translation": "N/A",
+    "meaning": "Unhappy people often want others to be unhappy too.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "You reap what you sow.",
+    "translation": "N/A",
+    "meaning": "The results of your actions reflect the effort you put in.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "Still waters run deep.",
+    "translation": "N/A",
+    "meaning": "A quiet or reserved person may have a profound or passionate nature.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "There's no place like home.",
+    "translation": "N/A",
+    "meaning": "Your own home is the most comfortable and enjoyable place to be.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "Laughter is the best medicine.",
+    "translation": "N/A",
+    "meaning": "Taking things lightly and having a sense of humor is helpful in difficult times.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "Discretion is the better part of valor.",
+    "translation": "N/A",
+    "meaning": "Caution and avoiding danger is often wiser than reckless bravery.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "The squeaky wheel gets the grease.",
+    "translation": "N/A",
+    "meaning": "The person who complains the loudest is the one who gets attention.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "Money doesn't grow on trees.",
+    "translation": "N/A",
+    "meaning": "Money is limited and must be earned, so don't spend it carelessly.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "A stitch in time saves nine.",
+    "translation": "N/A",
+    "meaning": "Fixing a small problem immediately prevents it from becoming a bigger one later.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "Knowledge is power.",
+    "translation": "N/A",
+    "meaning": "Having information and understanding puts one in a position of strength.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "Birds of a feather flock together.",
+    "translation": "N/A",
+    "meaning": "People with similar interests tend to associate with each other.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "There's no accounting for taste.",
+    "translation": "N/A",
+    "meaning": "It's impossible to explain or justify personal preferences.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "First come, first served.",
+    "translation": "N/A",
+    "meaning": "The person who arrives first gets priority.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "Brevity is the soul of wit.",
+    "translation": "N/A",
+    "meaning": "Intelligent speech or writing is concise and to the point.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "Nothing ventured, nothing gained.",
+    "translation": "N/A",
+    "meaning": "You must take a risk to achieve something worthwhile.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "The darkest hour is just before the dawn.",
+    "translation": "N/A",
+    "meaning": "The most trying times often precede a positive change.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "Familiarity breeds contempt.",
+    "translation": "N/A",
+    "meaning": "Knowing someone too well can lead to a loss of respect for them.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "Time heals all wounds.",
+    "translation": "N/A",
+    "meaning": "Emotional pain and suffering will eventually fade away.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "No man is an island.",
+    "translation": "N/A",
+    "meaning": "Everyone needs the support and company of others.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "You can catch more flies with honey than with vinegar.",
+    "translation": "N/A",
+    "meaning": "You can achieve more by being nice and persuasive than by being rude or demanding.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "Don't cross the bridge until you come to it.",
+    "translation": "N/A",
+    "meaning": "Don't worry about potential future problems; focus on the present.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "An ounce of prevention is worth a pound of cure.",
+    "translation": "N/A",
+    "meaning": "It is easier and cheaper to prevent a problem than to fix it later.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "Look before you leap.",
+    "translation": "N/A",
+    "meaning": "Think carefully about the risks before doing something.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "The shoe is on the other foot.",
+    "translation": "N/A",
+    "meaning": "The situation is the opposite of what it was before; roles have been reversed.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "A leopard can't change its spots.",
+    "translation": "N/A",
+    "meaning": "A person's basic nature or character will never change.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "Good things come to those who wait.",
+    "translation": "N/A",
+    "meaning": "Patience will eventually be rewarded.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "Where there is smoke, there is fire.",
+    "translation": "N/A",
+    "meaning": "If there are rumors or evidence of a problem, something is likely wrong.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "Put your money where your mouth is.",
+    "translation": "N/A",
+    "meaning": "Don't just talk about doing something; invest money or effort to back up your words.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "Strike while the iron is hot.",
+    "translation": "N/A",
+    "meaning": "Take advantage of an opportunity at the best possible time.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "Jack of all trades, master of none.",
+    "translation": "N/A",
+    "meaning": "A person skilled in many things but an expert in none.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "A picture is worth a thousand words.",
+    "translation": "N/A",
+    "meaning": "Visual evidence or imagery conveys meaning more effectively than a long description.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "The grass is always greener on the other side.",
+    "translation": "N/A",
+    "meaning": "People tend to want what they don't have, believing others' situations are better.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "Never look a gift horse in the mouth.",
+    "translation": "N/A",
+    "meaning": "Do not criticize a gift or an item received free of charge.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "Empty vessels make the most noise.",
+    "translation": "N/A",
+    "meaning": "The people with the least knowledge are often the loudest and most boastful.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "Like father, like son.",
+    "translation": "N/A",
+    "meaning": "A son's character or behavior often resembles that of his father.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "The proof of the pudding is in the eating.",
+    "translation": "N/A",
+    "meaning": "The real value of something is shown only after it has been tested or used.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "You can lead a horse to water, but you can't make him drink.",
+    "translation": "N/A",
+    "meaning": "You can offer an opportunity, but you cannot force someone to take it.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "Rome wasn't built in a day.",
+    "translation": "N/A",
+    "meaning": "Important work takes time and shouldn't be rushed.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "Easy come, easy go.",
+    "translation": "N/A",
+    "meaning": "Money or things acquired easily are often lost just as quickly.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "If you play with fire, you'll get burned.",
+    "translation": "N/A",
+    "meaning": "If you get involved in something dangerous or risky, you're likely to suffer consequences.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "God helps those who help themselves.",
+    "translation": "N/A",
+    "meaning": "You must work hard to achieve your goals, and luck/divine intervention will follow.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "A watched pot never boils.",
+    "translation": "N/A",
+    "meaning": "Time seems to pass more slowly when you are waiting for something to happen.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "Beggars can't be choosers.",
+    "translation": "N/A",
+    "meaning": "If you are in need, you must accept what is offered without complaint.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "Home is where the heart is.",
+    "translation": "N/A",
+    "meaning": "The place where you feel the most affection and belonging is your true home.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "Don't bite off more than you can chew.",
+    "translation": "N/A",
+    "meaning": "Don't take on more work or responsibility than you can handle.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "The road to hell is paved with good intentions.",
+    "translation": "N/A",
+    "meaning": "Good intentions mean nothing without concrete, positive actions.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "Walls have ears.",
+    "translation": "N/A",
+    "meaning": "Be careful what you say, as you may be overheard.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "Waste not, want not.",
+    "translation": "N/A",
+    "meaning": "If you use resources carefully and avoid waste, you will not be in need.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "A chain is only as strong as its weakest link.",
+    "translation": "N/A",
+    "meaning": "A group's effectiveness is limited by its least capable member.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "Don't throw the baby out with the bathwater.",
+    "translation": "N/A",
+    "meaning": "Don't discard something valuable when you are getting rid of something unwanted.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "Live and let live.",
+    "translation": "N/A",
+    "meaning": "Accept others' actions and beliefs, even if you disagree with them.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "The squeaky wheel gets the grease.",
+    "translation": "N/A",
+    "meaning": "The most noticeable problems or people get the most attention.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "There's no accounting for taste.",
+    "translation": "N/A",
+    "meaning": "It is impossible to explain why people like what they like.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "Two wrongs don't make a right.",
+    "translation": "N/A",
+    "meaning": "Retaliating for a mistake or bad deed does not fix the initial wrong.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "What goes around comes around.",
+    "translation": "N/A",
+    "meaning": "The consequences of your actions will eventually return to you.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "A bad workman blames his tools.",
+    "translation": "N/A",
+    "meaning": "People who are unskilled often excuse their failures by blaming their equipment.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "A journey of a thousand miles begins with a single step.",
+    "translation": "N/A",
+    "meaning": "Even the largest, most complex task must start with a small action.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "Don't burn your bridges.",
+    "translation": "N/A",
+    "meaning": "Don't destroy relationships that could be useful later.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "Every dog has its day.",
+    "translation": "N/A",
+    "meaning": "Everyone will have their moment of success or glory.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "If you snooze, you lose.",
+    "translation": "N/A",
+    "meaning": "If you don't act quickly, you will miss an opportunity.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "The best things in life are free.",
+    "translation": "N/A",
+    "meaning": "The most valuable experiences often don't cost money.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "There is no 'I' in team.",
+    "translation": "N/A",
+    "meaning": "Cooperation is essential; ego has no place in a group effort.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "All's well that ends well.",
+    "translation": "N/A",
+    "meaning": "A positive conclusion can compensate for a difficult process.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "Beauty is in the eye of the beholder.",
+    "translation": "N/A",
+    "meaning": "Different people have different ideas about what is attractive.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "Cut your coat according to your cloth.",
+    "translation": "N/A",
+    "meaning": "Live within your means and spend only what you can afford.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "It's always darkest before the dawn.",
+    "translation": "N/A",
+    "meaning": "Things get worse just before they get better.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "The love of money is the root of all evil.",
+    "translation": "N/A",
+    "meaning": "Excessive desire for wealth leads to sin and trouble.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "To err is human, to forgive divine.",
+    "translation": "N/A",
+    "meaning": "Everyone makes mistakes; it takes great character to forgive.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "You can't have your cake and eat it too.",
+    "translation": "N/A",
+    "meaning": "You can't enjoy two desirable but mutually exclusive things.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "What's done is done.",
+    "translation": "N/A",
+    "meaning": "Past actions cannot be changed, so accept the consequences.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "Where there's a will, there's a way.",
+    "translation": "N/A",
+    "meaning": "Determination leads to success.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "Don't count your chickens before they hatch.",
+    "translation": "N/A",
+    "meaning": "Don't celebrate success until it is certain.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "He who hesitates is lost.",
+    "translation": "N/A",
+    "meaning": "Delaying a decision can lead to missing a chance.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "Patience is a virtue.",
+    "translation": "N/A",
+    "meaning": "The ability to wait is a good quality.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "Variety is the spice of life.",
+    "translation": "N/A",
+    "meaning": "New experiences and diversity make life more interesting.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "A friend in need is a friend indeed.",
+    "translation": "N/A",
+    "meaning": "A true friend shows up when you are in trouble.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "Don't cry over spilt milk.",
+    "translation": "N/A",
+    "meaning": "Don't worry about something that has already happened and can't be fixed.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "If you can't beat 'em, join 'em.",
+    "translation": "N/A",
+    "meaning": "If you are unable to defeat an opponent, sometimes it is better to cooperate with them.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "Silence is golden.",
+    "translation": "N/A",
+    "meaning": "Sometimes it is best to say nothing.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "The show must go on.",
+    "translation": "N/A",
+    "meaning": "Regardless of difficulties, the planned event or performance should continue.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "You can't judge a book by its cover.",
+    "translation": "N/A",
+    "meaning": "Don't judge the quality or character of something/someone merely by its outward appearance.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime.",
+    "translation": "N/A",
+    "meaning": "Providing people with the means to help themselves is better than giving temporary aid.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "A penny saved is a penny earned.",
+    "translation": "N/A",
+    "meaning": "Saving money is as valuable as making money.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "Better to be safe than sorry.",
+    "translation": "N/A",
+    "meaning": "It is wiser to be cautious than to regret a risky action later.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "Don't look a gift horse in the mouth.",
+    "translation": "N/A",
+    "meaning": "Be grateful for gifts and opportunities.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "The pot calling the kettle black.",
+    "translation": "N/A",
+    "meaning": "A person who criticizes someone else for a fault that they themselves have.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "Let sleeping dogs lie.",
+    "translation": "N/A",
+    "meaning": "Do not bring up old conflicts or problems that have been resolved.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "The enemy of my enemy is my friend.",
+    "translation": "N/A",
+    "meaning": "People with a common foe may become temporary allies.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "He who would climb the ladder must begin at the bottom.",
+    "translation": "N/A",
+    "meaning": "Success is achieved step-by-step, starting with the basics.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "It takes two to tango.",
+    "translation": "N/A",
+    "meaning": "A conflict or interaction requires the participation of both parties.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "One man's trash is another man's treasure.",
+    "translation": "N/A",
+    "meaning": "Value is subjective; what one person discards, another may find valuable.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "Bad news travels fast.",
+    "translation": "N/A",
+    "meaning": "Unpleasant information spreads much quicker than positive news.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "Barking dogs seldom bite.",
+    "translation": "N/A",
+    "meaning": "People who make loud threats are usually the ones who are least likely to take action.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "Cleanliness is next to godliness.",
+    "translation": "N/A",
+    "meaning": "Being clean is considered a virtuous quality.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "He who hesitates is lost.",
+    "translation": "N/A",
+    "meaning": "If you delay in making a decision, you may miss a good opportunity.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "Poverty is no sin.",
+    "translation": "N/A",
+    "meaning": "Being poor is not a moral failing.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "Roll up your sleeves.",
+    "translation": "N/A",
+    "meaning": "Get ready to do some hard work.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "A fool and his money are soon parted.",
+    "translation": "N/A",
+    "meaning": "Someone who is careless with money will lose it quickly.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "The apple doesn't fall far from the tree.",
+    "translation": "N/A",
+    "meaning": "A child usually has similar characteristics to their parents.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "Business before pleasure.",
+    "translation": "N/A",
+    "meaning": "Finish your work obligations before you enjoy yourself.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "Experience is the best teacher.",
+    "translation": "N/A",
+    "meaning": "The most effective way to learn is by doing and making mistakes.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "If at first you don't succeed, try, try again.",
+    "translation": "N/A",
+    "meaning": "Persistence is necessary to achieve goals.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "Lend your money and lose your friend.",
+    "translation": "N/A",
+    "meaning": "Lending money to friends often results in strained relationships.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "Might makes right.",
+    "translation": "N/A",
+    "meaning": "Those who are stronger or more powerful can determine what is correct or just.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "English",
+    "proverb": "The early bird catches the worm.",
+    "translation": "N/A",
+    "meaning": "Those who start early have an advantage.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "English",
+    "proverb": "You scratch my back, I'll scratch yours.",
+    "translation": "N/A",
+    "meaning": "If you help me, I will help you (mutual support).",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "English",
+    "proverb": "Don't count your chickens before they hatch.",
+    "translation": "N/A",
+    "meaning": "Be cautious about assuming success too early.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Bi a bá ń sunkún ara ẹni, a máa ríran.",
+    "translation": "When we cry with others, we see clearly.",
+    "meaning": "Empathy builds unity and helps us heal together.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ojú l’ọ́rọ̀ wà, kì í ṣe ẹnu.",
+    "translation": "Wisdom lies in the eyes, not the mouth.",
+    "meaning": "Observation teaches more than mere talk.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Àìmọ̀ níí jẹ́ kí a pe orí burúkú ní tiẹ̀.",
+    "translation": "Ignorance makes one blame their fate.",
+    "meaning": "Knowledge helps us appreciate our destiny.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Kí ló ń jẹ́ kí ẹja rò, omi ló ń gbé e.",
+    "translation": "What makes a fish float is water.",
+    "meaning": "Everyone thrives best in their natural environment.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ọ̀nà kan ò wọ ọjà.",
+    "translation": "There’s no single path to the market.",
+    "meaning": "There are many ways to succeed.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ọmọ tó ní kó má fi orí baba rẹ ṣeré, yóò fi ti tirẹ̀ ṣeré.",
+    "translation": "A child who mocks his father’s bald head will soon have his own.",
+    "meaning": "Mocking others often brings the same upon oneself.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ìbáṣepọ̀ ló ń dá ìbáṣepọ̀ rú.",
+    "translation": "Relationship thrives on mutual respect.",
+    "meaning": "Reciprocity strengthens relationships.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Bí òjò kò bá rọ̀, àwọ̀n òní kò ní mọ iye omi.",
+    "translation": "If it doesn’t rain, the pots won’t know water’s value.",
+    "meaning": "Hardship makes us appreciate blessings.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ẹni tí ó bá fẹ́ ṣeré pẹ̀lú ẹkún, kó mọ̀ pé irun orí rẹ̀ ò ní bàjẹ́.",
+    "translation": "Whoever plays with a lion must be ready to lose his hair.",
+    "meaning": "Be cautious whom you challenge.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Agbà kì í wà lọ́jà, kí orí ọmọdé wo.",
+    "translation": "An elder does not sit in the market and watch a child’s head hang.",
+    "meaning": "Wisdom protects the young.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Adìyẹ funfun kò mọ ara rẹ̀ lágbà.",
+    "translation": "The white chicken does not realize its age.",
+    "meaning": "Respect yourself, even if others don't acknowledge your status.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Bí abá so òkò sójà ará ilé eni ní bá.",
+    "translation": "He who throws a stone in the market will hit his relative.",
+    "meaning": "Be careful what you do to others; it may return to harm you or someone close to you.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Gbogbo alangba lo d'anu dele, a ko mo eyi t'inu nrun.",
+    "translation": "All lizards lie flat on their stomach, and it is difficult to determine which has a stomach ache.",
+    "meaning": "Everyone looks the same on the outside, but everyone has invisible problems.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ìdí méjèèjì tó olúwa rẹ̀ láti jòkóó.",
+    "translation": "The two buttocks are sufficient for the owner to sit on.",
+    "meaning": "Contentment is key; be satisfied with what you have.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Bí oníṣé kò bá kú, a kì í fún un l'èwù ejò.",
+    "translation": "If the owner of a job does not die, you don't give him a snake's garment (a difficult task).",
+    "meaning": "Do not usurp the responsibility of someone who is still capable.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Kò sí àlè ríro láyé, bí kò bá ṣe ìṣé.",
+    "translation": "There is no extra burden in life, except for poverty.",
+    "meaning": "Poverty is the greatest challenge and source of trouble.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Bí iná kò bá jókùú, orí igi kò ní dán.",
+    "translation": "If fire does not burn the corpse, the head of the wood will not shine.",
+    "meaning": "Greatness requires enduring hardship or sacrifice.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Eni a bá kò tó bí ẹni àfojúdi.",
+    "translation": "A mat of grass does not last like a mat of bulrush.",
+    "meaning": "The quality of one's efforts determines the durability of the result.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ebi kì í pa Imàle, ó ní òun kì í jẹ ayá.",
+    "translation": "When the Imale (Muslim) is not hungry, he says he doesn't eat monkey meat.",
+    "meaning": "Don't boast about principles you can't maintain when desperate.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Kò sí àlàsara tí ń tà ìgbókù; gbogbo wọn ní ń tà oyin.",
+    "translation": "No snuff dealer sells stale snuff; they all sell honey (the best).",
+    "meaning": "Don't trust self-praise; everyone markets themselves as the best.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Gbogbo ọ̀rọ̀ ni ń sọ́jú èké.",
+    "translation": "A gossip is privy to all matters.",
+    "meaning": "Only busybodies have an opinion on everything; avoid being involved in all gossip.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Dìfẹ̀ díẹ̀ ni imú ẹlẹ́dẹ̀é fi ń wọgbà.",
+    "translation": "Little by little is how the pig's nose enters the yard.",
+    "meaning": "Attend to a small problem before it becomes uncontrollable.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "À ń pe gbẹ́nàgbẹ́nà, eye àkókó ń yojú.",
+    "translation": "A sculptor is summoned, and the woodpecker shows up.",
+    "meaning": "Never think too highly of yourself; stay in your lane.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Tí ìṣù ẹni bá ta, a fọwọ́ bo jẹ.",
+    "translation": "If your yam is ready, you cover it and eat.",
+    "meaning": "When you are blessed, don't display it to the world; keep your successes private.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ilé ẹni la ti ń jẹ ekúté onídòdò.",
+    "translation": "It is in your house you eat a rat with an abdomen (a delicate matter).",
+    "meaning": "Don't wash your dirty linen in public; keep family matters private.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Wúrà tó máa dán, á la iná kọjá.",
+    "translation": "A piece of gold that wants to shine must pass through fire first.",
+    "meaning": "No pain, no gain; success requires enduring trials.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "A kì í mọ iyì wúrà tí kò bá sọnù.",
+    "translation": "A piece of gold is seldom appreciated until it gets lost.",
+    "meaning": "We seldom appreciate what we have until we lose it; don't take things for granted.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Kò sí ohun tí a ní láyé tí a kò ní padà fi sílẹ̀.",
+    "translation": "There is nothing we have on earth that we will not eventually leave behind.",
+    "meaning": "Be humble and remember the transient nature of material wealth.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Àsà ni ilé, iṣẹ́ ni ọ̀nà.",
+    "translation": "Custom is the home, work is the road.",
+    "meaning": "One must have a foundation (customs/values) but must actively work to succeed (the road).",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Bí òjò kò bá rọ̀, àwọ̀n òní kò ní mọ iye omi.",
+    "translation": "If it doesn’t rain, the pots won’t know water’s value.",
+    "meaning": "Hardship makes us appreciate blessings.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ẹni tó bá nífẹ̀ẹ́ ìjà, yóò bá ikú.",
+    "translation": "He who loves a fight will meet death.",
+    "meaning": "Seek peace, not conflict.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Igi tó bá fẹ́ dàgbà, kò gbọ́dọ̀ gbéra nígbà èwe.",
+    "translation": "A tree that wants to grow big must not be proud in its youth.",
+    "meaning": "Humility and patience are necessary for future greatness.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Oríṣà tí kò gbẹ̀san, kò sí níbi ìjọsìn.",
+    "translation": "A god who does not avenge wrongs is not worthy of worship.",
+    "meaning": "Justice must be served; accountability is crucial.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Kókó ló ń ṣe kóòkó.",
+    "translation": "A knot produces a knot.",
+    "meaning": "Small problems can lead to larger, more complex ones.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Tí a bá ń wọlé ọba, a kì í ṣíjú wo pákó.",
+    "translation": "When entering the king's palace, one does not look at the planks (wood).",
+    "meaning": "When seeking greatness, do not focus on minor details or temporary obstacles.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "A fọ̀rọ̀ sọkún fún abirùn, abirùn sì ń fi gbéra.",
+    "translation": "We shared our tears with the lame, and the lame started using it to support himself.",
+    "meaning": "Be careful whom you share your weaknesses with, as they might use it against you.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Òtìtọ́ kò gbọ́dọ̀ ṣègbé.",
+    "translation": "Truth must not perish.",
+    "meaning": "The truth will always prevail.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "A kì í wọgi òkè, kí á máa wo ìsàlẹ̀.",
+    "translation": "One does not climb a tree without looking down.",
+    "meaning": "Be mindful of your starting point and remember humility as you rise.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "A kì í fi orí igi ṣùn nínú igbó.",
+    "translation": "One does not use the head of a tree to sleep in the forest.",
+    "meaning": "Do not depend on temporary or unreliable things for comfort or security.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Kò sí ẹni tí kò ní orí ire.",
+    "translation": "There is no one who does not have a good destiny.",
+    "meaning": "Everyone has the potential for success (a good destiny) if they pursue it.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Òtító eni ní ń tẹ̀lé ni.",
+    "translation": "One's truth follows one.",
+    "meaning": "Your character and actions will define your legacy.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ọ̀rọ̀ àgbà tọ́ sọ, tọ́ sọ, yóò wá sí ìmúṣẹ.",
+    "translation": "The word of an elder, though it seems delayed, will come to pass.",
+    "meaning": "Be patient and heed the advice of the wise.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Bí a kò bá tètè kolé, a ó kọ́ àgọ́ ní àpáta.",
+    "translation": "If one is not able at once to build a house, a shed is first erected.",
+    "meaning": "Take small, practical steps towards a larger goal.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Aja tí iré rẹ̀ bá dánilójú, ni a dẹ sí agoro.",
+    "translation": "The dog whose speed is known to be swift is set to catch the hare.",
+    "meaning": "Use the right tool or person for the right job; put talent to good use.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Kò sí ẹni tí a fún ní iṣẹ́ tí a kì í bẹ̀rù.",
+    "translation": "We should fear him who sends us with a message, not him to whom we are sent.",
+    "meaning": "Respect authority and those who delegate the task.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ẹní tí ó bá ran ni ní iṣẹ́ ni a í bẹ̀rù, a kì í bẹ̀rù ẹni tí a rán ni sí.",
+    "translation": "We should fear him who sends us with a message, not him to whom we are sent.",
+    "meaning": "Respect authority and those who delegate the task, not the subordinates you encounter.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Àgbà kì í wà lóko, kí ọmọdé ó wá a nílé.",
+    "translation": "An elder does not stay on the farm and let a child search for him at home.",
+    "meaning": "The leader must be present where their duty is.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Tí a bá fẹ́ kọ́ ilé, a gbọ́dọ̀ kọ́ òpó.",
+    "translation": "If you want to build a house, you must build the pillars.",
+    "meaning": "A strong foundation is essential for any major endeavor.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Kò sí orúkọ tí kò ní ìdí.",
+    "translation": "There is no name without a reason.",
+    "meaning": "Everything happens for a purpose; every action has a root cause.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ewé gbígbẹ ní a ti ń sán ní òwúrọ̀ kùtù.",
+    "translation": "Dry palm leaves must be tied early in the morning.",
+    "meaning": "Make hay while the sun shines; do the necessary work early.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Bí a bá ròkè, ilẹ̀ la ó padà bọ̀.",
+    "translation": "Whatever goes up must come down.",
+    "meaning": "Be humble, as positions of power and influence are temporary.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ẹni tó fi abọ́ jẹun, kò ní àyè fún ìbá.",
+    "translation": "The one who eats with a plate has no space for a calabash.",
+    "meaning": "Prioritize needs and avoid excessive consumption or greed.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Àgbà kì í wà nílé, kí ọ̀rọ̀ ó bàjẹ́.",
+    "translation": "An elder does not stay at home and allow things to spoil.",
+    "meaning": "Elders are responsible for maintaining peace and order.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Àgbọ́kọ́kó ni àbùkù.",
+    "translation": "The first listening is the source of the trouble.",
+    "meaning": "Listen carefully at the beginning to avoid misunderstanding and problems.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "A kì í fi owó kan ra ọ̀pọ̀lọ́.",
+    "translation": "One does not use one coin to buy a toad (a bad bargain).",
+    "meaning": "Be cautious about cheap offers, as they often come with hidden costs or problems.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ọ̀rọ̀ tó bá ti inú ìyàwó jáde, kò ní pa olùgbọ́.",
+    "translation": "A word that comes out of a wife's mouth will not kill the listener.",
+    "meaning": "Pay attention to advice from unexpected or humble sources.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Bí a bá fẹ́ lọ ibi tí òjò rọ̀, a gbọ́dọ̀ mú àgùbànyẹ̀ rà.",
+    "translation": "If you want to go where it rained, you must take a goat's leather.",
+    "meaning": "Prepare adequately for the conditions of your destination.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Eni tí kò bá fọwọ́ sí àwọn ẹranko burúkú, kì í jẹ́ ẹran wọn.",
+    "translation": "He who is not involved in wicked animal sacrifices will not eat their meat.",
+    "meaning": "Avoid associating with bad deeds to avoid their negative consequences.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Eni tí ó rẹ́ni lẹ́mìí, kò gbọ́dọ̀ wá ilé.",
+    "translation": "The person who saves another's life must not seek recompense.",
+    "meaning": "True benevolence should not seek a reward.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Àgbà kì í fìyà jẹ́ ọmọdé láìnídìí.",
+    "translation": "An elder does not punish a child without a reason.",
+    "meaning": "Authority figures should act with justice and justification.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Bí omi kò bá wà, ẹja kò ní rọra.",
+    "translation": "If there is no water, the fish will not be at ease.",
+    "meaning": "Lack of necessities causes great discomfort and danger.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ẹni tí ó bá nífẹ̀ẹ́ ìwà rere, yóò rí èrè rẹ̀.",
+    "translation": "He who loves good behavior will see its reward.",
+    "meaning": "Virtuous actions are always beneficial in the long run.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ẹni tí ó bá fẹ́ jẹ àjẹkù, kò gbọ́dọ̀ gbéra.",
+    "translation": "He who wants to eat leftovers must not be proud.",
+    "meaning": "Humility is required to receive help or benefit from others.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "A kì í fi ìjà kọlé.",
+    "translation": "One does not use fighting to build a house.",
+    "meaning": "Peace and cooperation are essential for constructive endeavors.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Bí omi bá ti ń rọ́, tó ń rọ́, yóò wá sí ìsàlẹ̀.",
+    "translation": "However much the water pours, it must eventually come down.",
+    "meaning": "Everything has its limit; excessiveness will eventually be corrected.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Òjò méjì kò ní jọ́ kan.",
+    "translation": "Two rainy seasons will not be in one day.",
+    "meaning": "Be patient; every event has its appointed time.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Kò sí ohun tí a kò lè fi sọ́kàn.",
+    "translation": "There is nothing that we cannot commit to memory.",
+    "meaning": "The human mind is capable of vast learning.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "A kì í fi ọmọdé sílé, kí a lọ ṣègbéyàwó.",
+    "translation": "One does not leave a child at home to go and marry.",
+    "meaning": "Address current, core responsibilities before pursuing new ventures.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ẹni tí a bá rí, ni a lè dá lẹ́jọ́.",
+    "translation": "The one we see is the one we can accuse.",
+    "meaning": "The visible person is often the one blamed; proof is necessary for justice.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Àgbà tó jẹ́ wọ́n, á fi èpò sọ́kàn.",
+    "translation": "An elder who eats alone will keep the crumbs in his mind.",
+    "meaning": "Sharing brings blessings; being selfish brings worry.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ẹni tí kò bá gbọ́rọ̀ lẹ́nu, yóò rí ìbàjẹ́.",
+    "translation": "He who does not listen to advice will suffer ruin.",
+    "meaning": "Heed the words of the wise.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Gbogbo ewé ní ń dá èjìká, kò sí èyí tí kò lè dá èjìká.",
+    "translation": "All leaves rest on the shoulder; there is none that cannot rest on the shoulder.",
+    "meaning": "Every burden can be carried with perseverance.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Àgbọ́kọ́kó ní ń fẹ́ kí ó dágbà kí ó wá rí nkan tí ó fẹ́.",
+    "translation": "The one who listened early will grow up to get what he wants.",
+    "meaning": "Early preparedness and wisdom pay off later in life.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Bí a bá fẹ́ gòkè, a gbọ́dọ̀ kọ́ òkè.",
+    "translation": "If you want to climb up, you must first construct a ladder.",
+    "meaning": "Preparation and method are essential for advancement.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ẹni tí ó bá fẹ́ ṣeré pẹ̀lú ọmọdé, yóò rí ọmọdé nínú rẹ̀.",
+    "translation": "He who wants to play with a child will find the child in him.",
+    "meaning": "Lower your standards to deal with immature people.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Kò sí ọ̀rọ̀ tí kò ní ìdí.",
+    "translation": "There is no issue without a source.",
+    "meaning": "Everything has a root cause that must be investigated.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Àgbẹ̀ tí ó bá fẹ́ kórè, kò gbọ́dọ̀ yé gbìn.",
+    "translation": "A farmer who wants to harvest must not stop planting.",
+    "meaning": "Continuous effort is necessary to achieve results.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Bí a bá ń bọ́ra, a kì í ṣeré pẹ̀lú ọbẹ̀.",
+    "translation": "When one is bathing, one does not play with the soup.",
+    "meaning": "Focus on the main task at hand; don't mix serious work with distractions.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ẹni tí ó bá nífẹ̀ẹ́ ìjà, yóò rí ìjà.",
+    "translation": "He who loves a fight will find a fight.",
+    "meaning": "What you seek, you will find (often used negatively).",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "A kì í fi ọwọ́ kan gbá ilé.",
+    "translation": "One does not sweep the house with one hand.",
+    "meaning": "Teamwork and collaboration are necessary for difficult tasks.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Bí a bá ń wọlé ọba, a gbọ́dọ̀ tẹrí ba.",
+    "translation": "When entering the king's palace, you must bow your head.",
+    "meaning": "Show respect to authority and powerful figures.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ọ̀rọ̀ àgbà kì í ṣubú.",
+    "translation": "The word of an elder does not fall (is never false).",
+    "meaning": "The advice of elders is wise and should be trusted.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Bí a bá rìn jìnnà, a ó ríran.",
+    "translation": "If one travels far, one will see more.",
+    "meaning": "Experience and exploration lead to greater wisdom.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ẹni tí ó bá jẹ́ ká mọ̀ pé òun ni, òun ni.",
+    "translation": "He who allows us to know that he is the one, he is the one.",
+    "meaning": "Acknowledge and respect the obvious source of power or authority.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Kò sí ẹni tí a kò lè fi sọ́kàn.",
+    "translation": "There is no one that we cannot keep in mind.",
+    "meaning": "Never forget the people who are important to you.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Tí a bá ń gbá ilé, a kì í gbá ẹnu ọ̀nà.",
+    "translation": "When sweeping the house, one does not sweep the doorway.",
+    "meaning": "Protect the entrance of your life/home from external troubles.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "A kì í fi orí jẹ bírí.",
+    "translation": "One does not use the head to eat bírí (a large chunk of food).",
+    "meaning": "Do not rush into major decisions; think before you act.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Bí iná bá jó, kò sí èyí tí kò ní jó.",
+    "translation": "If fire burns, there is nothing it will not burn.",
+    "meaning": "A general problem affects everyone; no one is truly safe.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ẹni tí ó bá fẹ́ gòkè, yóò kọ́ ìrèké.",
+    "translation": "He who wants to climb up will first cut sugarcane.",
+    "meaning": "Even for ambitious goals, humble preparations are necessary.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "A kì í fi èérú bọ́ lára.",
+    "translation": "One does not take off dirt to put on ashes.",
+    "meaning": "Do not replace one bad situation with an equally bad or worse one.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Kò sí ẹni tí a kò lè fi sọ́kàn.",
+    "translation": "There is no one that we cannot keep in mind.",
+    "meaning": "Never forget the people who are important to you.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Bí a bá ń fẹ́ràn ọmọdé, a kì í fi ìjà kọ́ọ.",
+    "translation": "If you love a child, you don't teach them by fighting.",
+    "meaning": "Discipline with love and wisdom, not aggression.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ẹni tí ó bá fẹ́ ṣeré pẹ̀lú ẹkùn, yóò rí ẹkùn nínú rẹ̀.",
+    "translation": "He who wants to play with a leopard will find the leopard in him.",
+    "meaning": "Be careful when dealing with dangerous people; you may become like them.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "A kì í fi ọwọ́ kan pa eku.",
+    "translation": "One does not use one hand to kill a rat.",
+    "meaning": "Complex problems require thorough effort and preparation.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ọ̀rọ̀ àgbà kì í ṣubú.",
+    "translation": "The word of an elder does not fall (is never false).",
+    "meaning": "Trust the advice of the wise.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Bí a bá ń yọ̀, a kì í gbàgbé ìbá.",
+    "translation": "When one is rejoicing, one does not forget the struggle.",
+    "meaning": "Remember past hardships during times of success.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ẹni tí ó bá fẹ́ gbọ́, yóò gbọ́.",
+    "translation": "He who wants to hear will hear.",
+    "meaning": "A determined listener will always find a way to learn.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Àgbà kì í wà nílé, kí ọmọdé ó bàjẹ́.",
+    "translation": "An elder does not stay at home and let a child be ruined.",
+    "meaning": "Elders have a responsibility to guide and correct the youth.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Bí a bá ń fẹ́ràn ọmọdé, a kì í fi ìjà kọ́ọ.",
+    "translation": "If you love a child, you don't teach them by fighting.",
+    "meaning": "Discipline with love and wisdom.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Kò sí ọ̀rọ̀ tí kò ní ìdí.",
+    "translation": "There is no issue without a source.",
+    "meaning": "Everything has a root cause that must be investigated.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ẹni tí ó bá fẹ́ jẹ àjẹkù, kò gbọ́dọ̀ gbéra.",
+    "translation": "He who wants to eat leftovers must not be proud.",
+    "meaning": "Humility is required to receive help or benefit from others.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "A kì í fi ìjà kọlé.",
+    "translation": "One does not use fighting to build a house.",
+    "meaning": "Peace and cooperation are essential for constructive endeavors.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Bí a bá ń bọ́ra, a kì í ṣeré pẹ̀lú ọbẹ̀.",
+    "translation": "When one is bathing, one does not play with the soup.",
+    "meaning": "Focus on the main task at hand; don't mix serious work with distractions.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Kò sí ẹni tí a kò lè fi sọ́kàn.",
+    "translation": "There is no one that we cannot keep in mind.",
+    "meaning": "Never forget the people who are important to you.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Tí a bá ń gbá ilé, a kì í gbá ẹnu ọ̀nà.",
+    "translation": "When sweeping the house, one does not sweep the doorway.",
+    "meaning": "Protect the entrance of your life/home from external troubles.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Bí iná bá jó, kò sí èyí tí kò ní jó.",
+    "translation": "If fire burns, there is nothing it will not burn.",
+    "meaning": "A general problem affects everyone; no one is truly safe.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ẹni tí ó bá fẹ́ gòkè, yóò kọ́ ìrèké.",
+    "translation": "He who wants to climb up will first cut sugarcane.",
+    "meaning": "Even for ambitious goals, humble preparations are necessary.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "A kì í fi èérú bọ́ lára.",
+    "translation": "One does not take off dirt to put on ashes.",
+    "meaning": "Do not replace one bad situation with an equally bad or worse one.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Bí a bá ń fẹ́ràn ọmọdé, a kì í fi ìjà kọ́ọ.",
+    "translation": "If you love a child, you don't teach them by fighting.",
+    "meaning": "Discipline with love and wisdom, not aggression.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ẹni tí ó bá fẹ́ ṣeré pẹ̀lú ẹkùn, yóò rí ẹkùn nínú rẹ̀.",
+    "translation": "He who wants to play with a leopard will find the leopard in him.",
+    "meaning": "Be careful when dealing with dangerous people; you may become like them.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "A kì í fi ọwọ́ kan pa eku.",
+    "translation": "One does not use one hand to kill a rat.",
+    "meaning": "Complex problems require thorough effort and preparation.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ọ̀rọ̀ àgbà kì í ṣubú.",
+    "translation": "The word of an elder does not fall (is never false).",
+    "meaning": "Trust the advice of the wise.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Bí a bá ń yọ̀, a kì í gbàgbé ìbá.",
+    "translation": "When one is rejoicing, one does not forget the struggle.",
+    "meaning": "Remember past hardships during times of success.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ẹni tí ó bá fẹ́ gbọ́, yóò gbọ́.",
+    "translation": "He who wants to hear will hear.",
+    "meaning": "A determined listener will always find a way to learn.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Àgbà kì í wà nílé, kí ọmọdé ó bàjẹ́.",
+    "translation": "An elder does not stay at home and let a child be ruined.",
+    "meaning": "Elders have a responsibility to guide and correct the youth.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Bí a bá ń fẹ́ràn ọmọdé, a kì í fi ìjà kọ́ọ.",
+    "translation": "If you love a child, you don't teach them by fighting.",
+    "meaning": "Discipline with love and wisdom.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Kò sí ọ̀rọ̀ tí kò ní ìdí.",
+    "translation": "There is no issue without a source.",
+    "meaning": "Everything has a root cause that must be investigated.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ẹni tí ó bá fẹ́ jẹ àjẹkù, kò gbọ́dọ̀ gbéra.",
+    "translation": "He who wants to eat leftovers must not be proud.",
+    "meaning": "Humility is required to receive help or benefit from others.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "A kì í fi ìjà kọlé.",
+    "translation": "One does not use fighting to build a house.",
+    "meaning": "Peace and cooperation are essential for constructive endeavors.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Bí a bá ń bọ́ra, a kì í ṣeré pẹ̀lú ọbẹ̀.",
+    "translation": "When one is bathing, one does not play with the soup.",
+    "meaning": "Focus on the main task at hand; don't mix serious work with distractions.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Kò sí ẹni tí a kò lè fi sọ́kàn.",
+    "translation": "There is no one that we cannot keep in mind.",
+    "meaning": "Never forget the people who are important to you.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Tí a bá ń gbá ilé, a kì í gbá ẹnu ọ̀nà.",
+    "translation": "When sweeping the house, one does not sweep the doorway.",
+    "meaning": "Protect the entrance of your life/home from external troubles.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Bí iná bá jó, kò sí èyí tí kò ní jó.",
+    "translation": "If fire burns, there is nothing it will not burn.",
+    "meaning": "A general problem affects everyone; no one is truly safe.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ẹni tí ó bá fẹ́ gòkè, yóò kọ́ ìrèké.",
+    "translation": "He who wants to climb up will first cut sugarcane.",
+    "meaning": "Even for ambitious goals, humble preparations are necessary.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "A kì í fi èérú bọ́ lára.",
+    "translation": "One does not take off dirt to put on ashes.",
+    "meaning": "Do not replace one bad situation with an equally bad or worse one.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Bí a bá ń fẹ́ràn ọmọdé, a kì í fi ìjà kọ́ọ.",
+    "translation": "If you love a child, you don't teach them by fighting.",
+    "meaning": "Discipline with love and wisdom, not aggression.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ẹni tí ó bá fẹ́ ṣeré pẹ̀lú ẹkùn, yóò rí ẹkùn nínú rẹ̀.",
+    "translation": "He who wants to play with a leopard will find the leopard in him.",
+    "meaning": "Be careful when dealing with dangerous people; you may become like them.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "A kì í fi ọwọ́ kan pa eku.",
+    "translation": "One does not use one hand to kill a rat.",
+    "meaning": "Complex problems require thorough effort and preparation.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ọ̀rọ̀ àgbà kì í ṣubú.",
+    "translation": "The word of an elder does not fall (is never false).",
+    "meaning": "Trust the advice of the wise.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Bí a bá ń yọ̀, a kì í gbàgbé ìbá.",
+    "translation": "When one is rejoicing, one does not forget the struggle.",
+    "meaning": "Remember past hardships during times of success.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Ẹni tí ó bá fẹ́ gbọ́, yóò gbọ́.",
+    "translation": "He who wants to hear will hear.",
+    "meaning": "A determined listener will always find a way to learn.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Yoruba",
+    "proverb": "Àgbà kì í wà nílé, kí ọmọdé ó bàjẹ́.",
+    "translation": "An elder does not stay at home and let a child be ruined.",
+    "meaning": "Elders have a responsibility to guide and correct the youth.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Otu osisi anaghị eme oke ọhịa.",
+    "translation": "One tree does not make a forest.",
+    "meaning": "Great achievements require collective effort and unity.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Anya na-acha uhie uhie anaghị aṅụ mmanya ọcha.",
+    "translation": "A red eye does not drink palm wine.",
+    "meaning": "A person who is angry or ill-tempered cannot enjoy peace or pleasure.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Onye gburu nwa, chi ya egbughị ya.",
+    "translation": "A person who kills a child is not killed by their destiny (Chi).",
+    "meaning": "Some evils are self-inflicted and defy fate; you face the consequences of your deliberate, wicked actions.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Mberede ka eji ama dike.",
+    "translation": "Difficulties are what make a hero known.",
+    "meaning": "True strength and character are revealed in a crisis.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Onye ji onye n'ala, ji onwe ya.",
+    "translation": "He who holds another person to the ground also holds himself down.",
+    "meaning": "Holding a grudge or oppressing others limits your own progress.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Nwata kwochaa aka, ya soro ndị okenye rie nri.",
+    "translation": "When a child washes his hands clean, he can eat with the elders.",
+    "meaning": "Preparation and proving oneself earn you a seat at the table with those who are respected.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Ijele anaghị akwụrụ n’otu ebe ana-ele ya.",
+    "translation": "The grand masquerade (Ijele) is not viewed from a single spot.",
+    "meaning": "You need to look at life's complexities from many perspectives.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Anaghị eji na agụụ na-agụ noo ụkwara.",
+    "translation": "You do not swallow phlegm to appease the pangs of hunger.",
+    "meaning": "Don't accept a poor substitute for what you truly need.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Ugo chara acha adịghị achụ àchụ.",
+    "translation": "A mature eagle's feather will always remain pure.",
+    "meaning": "A person of good character will always stand the test of time.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Ife onye metara, ọ bụrụ.",
+    "translation": "What a person does, they carry (the consequence).",
+    "meaning": "You are responsible for the results of your actions.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Mgbe onye ji teta ụra bụ ụtụtụ ya.",
+    "translation": "Whenever one wakes up from sleep is their own morning.",
+    "meaning": "It is never too late to start doing what is right or to pursue a goal.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Ekele dike na nke o mere, o mekwa ọzọ.",
+    "translation": "When the mighty is praised for what they have done, they will do more.",
+    "meaning": "Appreciation encourages better performance and effort.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Agwọ emeghi nke o jiri bụrụ agwọ, ụmụaka achịrị ya hie nkụ.",
+    "translation": "If a snake fails to show its venom, little kids will use it in tying firewood.",
+    "meaning": "You must assert your identity and capabilities, or people will disrespect you.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Aka aja aja n'ebute ọnụ mmanu mmanu.",
+    "translation": "The hand that has known much toiling will eventually know much feasting.",
+    "meaning": "Hard work and diligence eventually lead to prosperity.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Ụkpana okpoko gburu ntị chiri ya.",
+    "translation": "The grasshopper that is killed by a Crow is deaf.",
+    "meaning": "Once forewarned of danger, flee, unless one is deaf (or unwilling to listen).",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Akụ na-esi obi ike.",
+    "translation": "Wealth makes the heart strong.",
+    "meaning": "Financial security gives one courage and boldness.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Ihe e zutere n'ohi na-ala n'ohi.",
+    "translation": "Whatever one obtains by crooked means leaves one's possession by crooked means.",
+    "meaning": "Ill-gotten gains do not last; stolen wealth is volatile.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Ndidi nwe mmeri.",
+    "translation": "Patience owns the victory.",
+    "meaning": "Success is achieved through perseverance and waiting for the right moment.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Onye kwe, Chi ya ekwe.",
+    "translation": "When a person says yes, their Chi (personal god) says yes.",
+    "meaning": "Man's determination is the key to activating his destiny.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Nwata etoghi eto wara ọgọdọ, ikuku kụọ, ọ bulu ya na ọgọdọ ọ ma n'ụkwụ.",
+    "translation": "If a child tries to tie a wrapper before maturity, when the wind blows, it will carry both the child and the wrapper.",
+    "meaning": "Do not rush into responsibilities or status for which you are not yet prepared.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Ọ na-abụ akọta ihe ka ubi, e lee ọba.",
+    "translation": "While farming, if one encounters what is more significant than the farm, one sells the barn.",
+    "meaning": "One who incurs what is beyond one's ability may sell all one has; know your limits.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Egbe bere, Ụgọ bere, nke sị ibe ya ebena nku kwaa ya.",
+    "translation": "Let the eagle perch, let the kite perch; if one doesn't want the other to perch, may his wings break.",
+    "meaning": "Live and let live; mutual respect is necessary for coexistence.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Akụrụ ụlọ amara onye kpatara ya.",
+    "translation": "When wealth reaches home, the wealthy person will be known.",
+    "meaning": "The successful person's efforts will eventually be recognized.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Ụwa bụ ahịa, onye zụsia ọ nakwụrụ Chi.",
+    "translation": "The cosmos is a grand market; after trading, one returns to god.",
+    "meaning": "Life is a temporary journey; one's ultimate fate is in the hands of the creator.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Oji nwayọọ anaghị emerụ ahụ.",
+    "translation": "The one who takes it easy will hardly get hurt.",
+    "meaning": "Prudence and caution minimize risk and injury.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Onye n'akwa nka na-adụ ihu.",
+    "translation": "The artist/craft-adept often appears to wear a frown in the process of their work.",
+    "meaning": "Deep concentration and focused effort may look like distress to an outsider.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Ife onye metara, ọ bụrụ.",
+    "translation": "Whatsoever one's actions are, they must be prepared to face the consequences.",
+    "meaning": "You are responsible for your own destiny; karma is real.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Ọkụkọ na-abọpụta mma na-egbu ya.",
+    "translation": "The fowl digs out the blade that kills it.",
+    "meaning": "Some people unknowingly bring about their own downfall.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "A chụọ aja ma ahụghị ụdèlè, mara na ihe mere na be ndị mmụọ.",
+    "translation": "If the vulture fails to hover at the end of a sacrifice, then you know that something has happened in the land of spirits.",
+    "meaning": "If expected consequences or signs fail to appear, there is a serious, underlying cause.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Nwa bụrụ osisi, e be ya ọzọ; nwa bụrụ mmadụ, e nye ya aka.",
+    "translation": "If a child is a tree, it is cut again; if a child is a person, one gives him a hand.",
+    "meaning": "A person should be corrected and guided, not destroyed by their mistakes.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Onye bulu ihe isi, ijiji esoro ya.",
+    "translation": "The fly follows the person who is carrying a smelly stuff.",
+    "meaning": "Trouble and unwelcome attention follow those associated with bad business or bad reputation.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Aka nri kwọọ aka ekpe, aka ekpe akwọọ aka nri.",
+    "translation": "When the right hand washes the left hand, the left hand equally washes the right hand.",
+    "meaning": "Reciprocity and mutual support are essential in any relationship.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Ije na ụra na-agba aka.",
+    "translation": "Journey and sleep go hand in hand.",
+    "meaning": "Rest is necessary after a period of intense effort or travel.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Nwata akpọọ ọkụ ọkụ, ọ tụọ ụjọ.",
+    "translation": "If a child calls fire, fire, it becomes afraid.",
+    "meaning": "Naming a problem is the first step, but fear can prevent you from facing it.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Ukpala gbabara n'ikpo ọkụkọ na-ala ala mmụọ.",
+    "translation": "The grasshopper that runs into the mist of fowls ends up in the land of spirits.",
+    "meaning": "Do not seek refuge among your enemies; choose your allies carefully.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Onye nwere ndidi, nwere ihe niile.",
+    "translation": "The patient person has everything.",
+    "meaning": "Patience is the key to obtaining success and wealth.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Okirikiri k’ana gba ụkwụ ose, anaghị arị ya-elu.",
+    "translation": "The pepper shrub is not climbed but circled.",
+    "meaning": "When faced with a dangerous or sensitive situation, approach it with caution and respect.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Onye si na ya anaghị ata anụ nkịta, ya arịkwala mmiri ofe ya.",
+    "translation": "He who abhors dog meat should not eat dog-meat soup.",
+    "meaning": "Avoid any association with what you claim to despise.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Onye tetara n'ụra na-atụ make, ọ bụ mmadụ kpọtere ya?",
+    "translation": "Someone who woke up from sleep and still staggers around, was he/she forcefully woken by someone else?",
+    "meaning": "Do not blame others for your lack of focus or preparation after you have had the chance to rest.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Ihe ka-ntị bata n'ọnụ ntị, ntị etefu.",
+    "translation": "When something greater than the pigmy cricket enters its hole, it takes off.",
+    "meaning": "When a major threat appears, lesser worries are forgotten; prioritize serious problems.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Nkụ onye kpara n'ọkọchị ka ọ na-anya n'udu mmiri.",
+    "translation": "One's actions today will determine his position in the future.",
+    "meaning": "Prepare for the future during times of plenty; forethought is key.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "A tụọrọ ọmara, ọ mara; a tụọrọ ọfeke, ọ fenye ishi n'ọhịa.",
+    "translation": "If you tell a wise one, he understands; tell a dunce, he runs into the bush.",
+    "meaning": "Wise people grasp subtle hints; fools need everything spelled out.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Ụkwa na-egbu onye ọ na-egbu, onye na-egbu ọkụkọ na-egbu ọkụkọ.",
+    "translation": "The yam kills whom it kills, the person who kills the fowl kills the fowl.",
+    "meaning": "Everyone has their own destiny and fate; focus on your own life.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Onye gbara ọsọ ndụ, anaghị agba ọsọ ụkwụ.",
+    "translation": "He who is running for dear life does not run on one leg.",
+    "meaning": "Be fully committed and desperate when fighting for your survival.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Ihe ka-ntị bata n'ọnụ ntị, ntị etefu.",
+    "translation": "When something greater than the pigmy cricket enters its hole, it takes off.",
+    "meaning": "A major crisis or opportunity immediately shifts focus from minor issues.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Onye buuru chi ya ụzọ, ọ gbagbue onwe ya n'ọsọ.",
+    "translation": "He who walks before his godly guardian (Chi) runs himself to death.",
+    "meaning": "Don't rush ahead of your destiny; trust in divine timing and guidance.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Nwata kwochaa aka ọ soro ndị oke rie nri.",
+    "translation": "When a child washes his hands clean, he can eat with the elders.",
+    "meaning": "Diligence and good preparation earn respect and opportunities.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Agadi nwanyị anaghị aka nka na egwu ọ ma-aba.",
+    "translation": "An old woman does not grow old when it comes to the dance steps she knows how to dance.",
+    "meaning": "Experience and skill in a particular area never fade.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Mmadụ anaghị eti mkpu banyere ihe na-esite n'ụzọ.",
+    "translation": "A person does not shout about what comes from the path.",
+    "meaning": "The consequences of expected or inevitable events are not shocking.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Ije na ụra na-agba aka.",
+    "translation": "Journey and sleep go hand in hand.",
+    "meaning": "After hard work (journey), rest (sleep) is necessary.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Onye kwe, chi ya ekwe.",
+    "translation": "When a person says yes, their Chi (personal god) says yes.",
+    "meaning": "Your will and determination are the keys to unlocking your destiny.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Aka aja aja n'ebute ọnụ mmanu mmanu.",
+    "translation": "The hand that has known much toiling will eventually know much feasting.",
+    "meaning": "Hard work and diligence will surely lead to success and enjoyment.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Ọ na-abụ akọta ihe ka ubi, e lee ọba.",
+    "translation": "While farming, if one encounters what is more significant than the farm, one sells the barn.",
+    "meaning": "Know your limits, especially when dealing with high-stakes situations.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Egbe bere, Ụgọ bere, nke sị ibe ya ebena nku kwaa ya.",
+    "translation": "Let the eagle perch, let the kite perch; if one doesn't want the other to perch, may his wings break.",
+    "meaning": "Live and let live; tolerance is essential for communal peace.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Onye ji onye n'ala, ji onwe ya.",
+    "translation": "He who holds another person to the ground also holds himself down.",
+    "meaning": "Oppressing others limits your own freedom and progress.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Mberede ka eji ama dike.",
+    "translation": "Difficulties are what make a hero known.",
+    "meaning": "A person's true character and strength are revealed in a crisis.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Otu osisi anaghị eme oke ọhịa.",
+    "translation": "One tree does not make a forest.",
+    "meaning": "Unity and collaboration are required for major endeavors.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Ugo chara acha adịghị achụ àchụ.",
+    "translation": "A mature eagle's feather will always remain pure.",
+    "meaning": "A person of great character and virtue will maintain their integrity.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Ife onye metara, ọ bụrụ.",
+    "translation": "What a person does, they carry (the consequence).",
+    "meaning": "You must bear the results of your actions, whether good or bad.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Nwata kwochaa aka, ya soro ndị okenye rie nri.",
+    "translation": "When a child washes his hands clean, he can eat with the elders.",
+    "meaning": "Diligence and preparation earn respect and acceptance from leaders.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Ijele anaghị akwụrụ n’otu ebe ana-ele ya.",
+    "translation": "The grand masquerade (Ijele) is not viewed from a single spot.",
+    "meaning": "You need to look at complex situations from many perspectives.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Anaghị eji na agụụ na-agụ noo ụkwara.",
+    "translation": "You do not swallow phlegm to appease the pangs of hunger.",
+    "meaning": "Don't accept poor substitutes for what you truly need.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Anya na-acha uhie uhie anaghị aṅụ mmanya ọcha.",
+    "translation": "A red eye does not drink palm wine.",
+    "meaning": "A person who is angry cannot enjoy peace or pleasure.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Onye gburu nwa, chi ya egbughị ya.",
+    "translation": "A person who kills a child is not killed by their destiny (Chi).",
+    "meaning": "Consequences of wicked actions are self-inflicted.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Ihe ka-ntị bata n'ọnụ ntị, ntị etefu.",
+    "translation": "When something greater than the pigmy cricket enters its hole, it takes off.",
+    "meaning": "Prioritize serious problems over minor ones.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Nkụ onye kpara n'ọkọchị ka ọ na-anya n'udu mmiri.",
+    "translation": "One's actions today will determine his position in the future.",
+    "meaning": "Preparation in good times ensures survival in bad times.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Onye kwe, Chi ya ekwe.",
+    "translation": "When a person says yes, their Chi (personal god) says yes.",
+    "meaning": "Your determination is key to your success.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Mberede ka eji ama dike.",
+    "translation": "Difficulties are what make a hero known.",
+    "meaning": "True strength is proven in a crisis.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Otu osisi anaghị eme oke ọhịa.",
+    "translation": "One tree does not make a forest.",
+    "meaning": "Collective effort is crucial for major success.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Ugo chara acha adịghị achụ àchụ.",
+    "translation": "A mature eagle's feather will always remain pure.",
+    "meaning": "A person of good character will always retain their value.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Ife onye metara, ọ bụrụ.",
+    "translation": "What a person does, they carry (the consequence).",
+    "meaning": "Take responsibility for your actions.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Nwata kwochaa aka, ya soro ndị okenye rie nri.",
+    "translation": "When a child washes his hands clean, he can eat with the elders.",
+    "meaning": "Diligence earns respect and a place among the successful.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Ijele anaghị akwụrụ n’otu ebe ana-ele ya.",
+    "translation": "The grand masquerade (Ijele) is not viewed from a single spot.",
+    "meaning": "View complex matters from all angles.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Anaghị eji na agụụ na-agụ noo ụkwara.",
+    "translation": "You do not swallow phlegm to appease the pangs of hunger.",
+    "meaning": "Don't accept poor substitutes for vital needs.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Anya na-acha uhie uhie anaghị aṅụ mmanya ọcha.",
+    "translation": "A red eye does not drink palm wine.",
+    "meaning": "Anger or malice prevents one from enjoying peace.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Onye gburu nwa, chi ya egbughị ya.",
+    "translation": "A person who kills a child is not killed by their destiny (Chi).",
+    "meaning": "Wicked acts have inevitable, self-inflicted consequences.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Ihe ka-ntị bata n'ọnụ ntị, ntị etefu.",
+    "translation": "When something greater than the pigmy cricket enters its hole, it takes off.",
+    "meaning": "Lesser worries disappear when a major one arrives.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Igbo",
+    "proverb": "Nkụ onye kpara n'ọkọchị ka ọ na-anya n'udu mmiri.",
+    "translation": "One's actions today will determine his position in the future.",
+    "meaning": "The foundation laid in the present determines future success.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Komi nisan jifa, ƙasa zai faɗo.",
+    "translation": "However far you throw a stone, it will still fall to the ground.",
+    "meaning": "What goes up must come down; every action has a natural limit or end.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Ruwa ba ta tsami banza.",
+    "translation": "Water does not turn sour for no reason.",
+    "meaning": "Nothing happens without a cause; there is always a reason behind an event.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Zama dubara, ta fi ƙarfi.",
+    "translation": "Strategy is better than brute force.",
+    "meaning": "Wisdom and planning are superior to strength.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Sai an kula kashi yake doyi (wari).",
+    "translation": "You only notice the smell when you step on the droppings.",
+    "meaning": "Silent is the best answer to a fool; don't engage in petty arguments.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Bari kaza cikin gashinta.",
+    "translation": "Leave the hen in its feathers.",
+    "meaning": "Let sleeping dogs lie; don't interfere in a matter that doesn't concern you.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Duniya budurwar wawa ce.",
+    "translation": "The world is a virgin to the fool.",
+    "meaning": "The naive view the world as an endless source of pleasure, while the wise know its limitations.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Da kunne ya ji, da jiki ya tsira.",
+    "translation": "Had the ear heard, the body would have escaped.",
+    "meaning": "Pay attention to warnings to avoid danger.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Mai ido ɗaya ba ya gode Allah ba, sai ya ga makafo.",
+    "translation": "The one-eyed person only thanks God when he sees a blind man.",
+    "meaning": "You never appreciate what you have until you see someone worse off.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Da zafin nama ake cin nama.",
+    "translation": "Meat is eaten with heated effort (vigor).",
+    "meaning": "Success requires effort and commitment; strike while the iron is hot.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Kowa ya ki a yi masa wani abu, to ya guji yi wa wani.",
+    "translation": "Whoever refuses to have something done to them should avoid doing it to others.",
+    "meaning": "The universal principle of treating others as you would like to be treated.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Komi nisan dare, gari ya waye.",
+    "translation": "However long the night, morning will come.",
+    "meaning": "No matter how dark or difficult the situation, a new day will bring hope and change.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Idan ruwa ta ɓata, da ƙwari take ɓatata.",
+    "translation": "If water is spoilt, it is with the sediment that it is spoilt.",
+    "meaning": "A problem often starts with a small, hidden defect or corruption.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Kwance da kuɗi ya fi kwana soro babu wuri.",
+    "translation": "Sleeping in a grass hut with money is better than sleeping in a good house without money.",
+    "meaning": "Wealth and security are more important than superficial appearances.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Jiki magayi.",
+    "translation": "The body is the speaker.",
+    "meaning": "Actions speak louder than words; your body (physical state/health) tells the truth.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Hana wani, hana kai.",
+    "translation": "Forbidding another, forbidding yourself.",
+    "meaning": "Selfishness or denying others opportunities will eventually hinder your own progress.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Babu ciki, babu goyo.",
+    "translation": "No pregnancy, nothing carried on the back.",
+    "meaning": "You must put in the effort (pregnancy) before you can enjoy the result (carrying the baby).",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Komi nisan jifa, ƙasa zai faɗo.",
+    "translation": "However far you throw a stone, it will still fall to the ground.",
+    "meaning": "Everything returns to its origin; be humble.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Gaskiya dokin karfe.",
+    "translation": "Truth is an iron horse.",
+    "meaning": "The truth is strong, durable, and unstoppable.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Mai haƙuri shike da rabo.",
+    "translation": "The person with patience has good fortune.",
+    "meaning": "Patience is a virtue that leads to success.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "A bar kaza cikin gashinta.",
+    "translation": "Leave the hen in its feathers.",
+    "meaning": "Don't interfere in a matter that doesn't concern you or where you are not needed.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Sai an kula kashi yake doyi.",
+    "translation": "You only notice the smell when you step on the droppings.",
+    "meaning": "Some problems should be ignored; engaging makes the situation worse.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Dariya da kyauro, mai kyauro ya ci.",
+    "translation": "He who laughs last, laughs best.",
+    "meaning": "The true winner is the one who succeeds at the end, not the one who boasts early.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Gani ya kori ji.",
+    "translation": "Seeing chases away hearing.",
+    "meaning": "Seeing is believing; evidence is more convincing than hearsay.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Idan kana da haƙuri, za ka dafa dutse ka sha ruwansa.",
+    "translation": "If you have patience, you can cook a stone and drink its broth.",
+    "meaning": "With extreme patience, even the impossible can be achieved.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Gudu da susa'n gusu ba shi yi.",
+    "translation": "Running and scratching oneself is not possible.",
+    "meaning": "You cannot manage two conflicting tasks simultaneously; focus is key.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Mai ido ɗaya ba ya gode Allah ba, sai ya ga makafo.",
+    "translation": "The one-eyed person only thanks God when he sees a blind man.",
+    "meaning": "Appreciate your blessings by comparing yourself to those less fortunate.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Rana da wuta, gaba da baya.",
+    "translation": "Sun and fire, front and back.",
+    "meaning": "Be cautious and guard yourself from enemies and unexpected dangers.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Rabon Allah, ba ya ƙarewa.",
+    "translation": "God's portion (blessing) never finishes.",
+    "meaning": "Trust in divine provision and providence.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Sabo da ganin ido shi ke sa a reni.",
+    "translation": "Being used to by the eye causes contempt.",
+    "meaning": "Familiarity breeds contempt; maintain a degree of distance to keep respect.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Dadin baki da karatu, yafi magana da karfi.",
+    "translation": "Sweet words and learning are better than speaking forcefully.",
+    "meaning": "Persuasion and knowledge are more effective than force or shouting.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Kowace rana da abincinta.",
+    "translation": "Every day has its food.",
+    "meaning": "Trust that your daily needs will be met; don't worry excessively about the future.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "In an kula, in an gano wuta.",
+    "translation": "If one is careful, one will see the fire.",
+    "meaning": "If you pay attention, you will notice the source of trouble or danger early.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Zama ɗaya, an gama da wawa.",
+    "translation": "Sitting down once, the fool is finished.",
+    "meaning": "A fool's lack of caution leads to quick failure.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Da zafin nama ake cin nama.",
+    "translation": "Meat is eaten with heated effort (vigor).",
+    "meaning": "Success requires enthusiasm and sustained effort.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Gwarin gwanda, mai kwabo ya fi mai kobo.",
+    "translation": "The one who is healthy with a penny is better than the one with a pound who is sick.",
+    "meaning": "Health is more valuable than wealth.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Kowa ya ci zomo, ya ci ragon.",
+    "translation": "Whoever eats a hare also eats a ram.",
+    "meaning": "If you can handle a small task, you can handle a larger one.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Komi nisan dare, gari ya waye.",
+    "translation": "However long the night, morning will come.",
+    "meaning": "Endure difficult times; they are temporary.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Kowane damba, da nufin sa.",
+    "translation": "Every affair is with its intention.",
+    "meaning": "Every action or event has an underlying purpose or motive.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Abin da mutum ya shuka, shi ne zai girbe.",
+    "translation": "What a person plants is what they will harvest.",
+    "meaning": "You reap what you sow; consequences follow actions.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Zaman kashe wando.",
+    "translation": "Sitting down is a waste of trousers.",
+    "meaning": "Idleness leads to no gain; be active and productive.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Idan ruwa ta ci danga, ta ci kowa.",
+    "translation": "If the water overflows the dam, it overflows everyone.",
+    "meaning": "A general calamity affects all, regardless of status.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Babu wanda ya fi karfin Allah.",
+    "translation": "No one is greater than God.",
+    "meaning": "Humble yourself; divine power is supreme.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Komi nisan dutse, zai faɗo ƙasa.",
+    "translation": "However far the stone is thrown, it will fall to the ground.",
+    "meaning": "Ambition must eventually face reality and limitations.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Gaba ɗaya, baya ɗaya.",
+    "translation": "Front one, back one.",
+    "meaning": "Unity is strength; face challenges together.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Zaki ba ya cin zaki.",
+    "translation": "A lion does not eat another lion.",
+    "meaning": "Do not harm your own kind or those who share your strength.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Mai haƙuri shike da rabo.",
+    "translation": "The person with patience has good fortune.",
+    "meaning": "Patience will eventually be rewarded.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Aiki da kwanciyar hankali ya fi na gaggawa.",
+    "translation": "Work done with peace of mind is better than hurried work.",
+    "meaning": "Take your time for quality and accuracy.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Kowa ya rena zomo, ba zai kama shi ba.",
+    "translation": "Whoever despises a hare will not catch it.",
+    "meaning": "Never underestimate an opponent or a task, regardless of its size.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Gudu da zama, duka biyu daban.",
+    "translation": "Running and sitting are two different things.",
+    "meaning": "Action is fundamentally different from inaction; choose wisely.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Mai ido ɗaya ya fi makafo biyu.",
+    "translation": "One-eyed person is better than two blind people.",
+    "meaning": "Having some ability, even if limited, is better than having none.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Kowa ya saba da mutum, ya san halinsa.",
+    "translation": "Whoever is familiar with a person knows their character.",
+    "meaning": "Experience and familiarity reveal true character.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Kowa ya ki a yi masa wani abu, to ya guji yi wa wani.",
+    "translation": "Whoever refuses to have something done to them should avoid doing it to others.",
+    "meaning": "Treat others as you wish to be treated (the Golden Rule).",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Zaman duniya, dadi ya fi.",
+    "translation": "The world's dwelling, pleasure is better.",
+    "meaning": "Strive for happiness and contentment in life.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "In ka kwana ɗaki ɗaya da karambani, in ba ka taɓa shi ba, ba zai taɓa ka ba.",
+    "translation": "When you sleep with a meddlesome person, if you don't touch him, he won't touch you.",
+    "meaning": "Avoid provoking trouble or conflict.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Mai gida ya so kwana, mai tabarma sai shi naɗe.",
+    "translation": "The owner of the bed wants to sleep, the man with the mat must roll it up.",
+    "meaning": "Respect the authority of the host or the person in charge.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Ruwa ba ta tsami banza.",
+    "translation": "Water does not turn sour for no reason.",
+    "meaning": "Always look for the underlying cause of a problem.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Komi nisan jifa, ƙasa zai faɗo.",
+    "translation": "However far you throw a stone, it will still fall to the ground.",
+    "meaning": "All things must eventually return to their beginning or face reality.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Da haƙuri ake cin nama.",
+    "translation": "It is with patience that meat is eaten.",
+    "meaning": "Big rewards require slow, careful effort and patience.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Hana wani, hana kai.",
+    "translation": "Forbidding another, forbidding yourself.",
+    "meaning": "Obstruction of others will eventually hinder your own life.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Da kunna ka ji, da jiki ya tsira.",
+    "translation": "Had the ear heard (the warning), the body would have escaped.",
+    "meaning": "Listen to advice to avoid suffering; heed warnings.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Komi nisan dare, gari ya waye.",
+    "translation": "However long the night, morning will come.",
+    "meaning": "Hope for a brighter future after difficulties.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Zama dubara, ta fi ƙarfi.",
+    "translation": "Strategy is better than brute force.",
+    "meaning": "Cleverness and planning triumph over raw strength.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Bari kaza cikin gashinta.",
+    "translation": "Leave the hen in its feathers.",
+    "meaning": "Do not interfere unnecessarily with other people's affairs.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Mai ido ɗaya ba ya gode Allah ba, sai ya ga makafo.",
+    "translation": "The one-eyed person only thanks God when he sees a blind man.",
+    "meaning": "Be thankful for what you have by looking at those who have less.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Gani ya kori ji.",
+    "translation": "Seeing chases away hearing.",
+    "meaning": "Proof is always better than rumors.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Komi nisan jifa, ƙasa zai faɗo.",
+    "translation": "However far you throw a stone, it will still fall to the ground.",
+    "meaning": "Ambition must eventually face reality and limitations.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Zaman kashe wando.",
+    "translation": "Sitting down is a waste of trousers.",
+    "meaning": "Idleness is unproductive and undesirable.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Idan ruwa ta ci danga, ta ci kowa.",
+    "translation": "If the water overflows the dam, it overflows everyone.",
+    "meaning": "A general calamity affects all, regardless of status.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Babu wanda ya fi karfin Allah.",
+    "translation": "No one is greater than God.",
+    "meaning": "Divine power is supreme; human authority is limited.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Komi nisan dutse, zai faɗo ƙasa.",
+    "translation": "However far the stone is thrown, it will fall to the ground.",
+    "meaning": "Ambition must eventually face reality and limitations.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Gaba ɗaya, baya ɗaya.",
+    "translation": "Front one, back one.",
+    "meaning": "Unity and shared purpose are crucial for success.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Zaki ba ya cin zaki.",
+    "translation": "A lion does not eat another lion.",
+    "meaning": "Do not harm your own kind or those who share your strength.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Mai haƙuri shike da rabo.",
+    "translation": "The person with patience has good fortune.",
+    "meaning": "Patience will eventually be rewarded.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Aiki da kwanciyar hankali ya fi na gaggawa.",
+    "translation": "Work done with peace of mind is better than hurried work.",
+    "meaning": "Take your time for quality and accuracy.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Kowa ya rena zomo, ba zai kama shi ba.",
+    "translation": "Whoever despises a hare will not catch it.",
+    "meaning": "Never underestimate an opponent or a task, regardless of its size.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Gudu da zama, duka biyu daban.",
+    "translation": "Running and sitting are two different things.",
+    "meaning": "Action is fundamentally different from inaction; choose wisely.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Mai ido ɗaya ya fi makafo biyu.",
+    "translation": "One-eyed person is better than two blind people.",
+    "meaning": "Having some ability, even if limited, is better than having none.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Kowa ya saba da mutum, ya san halinsa.",
+    "translation": "Whoever is familiar with a person knows their character.",
+    "meaning": "Experience and familiarity reveal true character.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Kowa ya ki a yi masa wani abu, to ya guji yi wa wani.",
+    "translation": "Whoever refuses to have something done to them should avoid doing it to others.",
+    "meaning": "Treat others as you wish to be treated (the Golden Rule).",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Zaman duniya, dadi ya fi.",
+    "translation": "The world's dwelling, pleasure is better.",
+    "meaning": "Strive for happiness and contentment in life.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "In ka kwana ɗaki ɗaya da karambani, in ba ka taɓa shi ba, ba zai taɓa ka ba.",
+    "translation": "When you sleep with a meddlesome person, if you don't touch him, he won't touch you.",
+    "meaning": "Avoid provoking trouble or conflict.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Mai gida ya so kwana, mai tabarma sai shi naɗe.",
+    "translation": "The owner of the bed wants to sleep, the man with the mat must roll it up.",
+    "meaning": "Respect the authority of the host or the person in charge.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Ruwa ba ta tsami banza.",
+    "translation": "Water does not turn sour for no reason.",
+    "meaning": "Always look for the underlying cause of a problem.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Komi nisan jifa, ƙasa zai faɗo.",
+    "translation": "However far you throw a stone, it will still fall to the ground.",
+    "meaning": "All things must eventually return to their beginning or face reality.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Da haƙuri ake cin nama.",
+    "translation": "It is with patience that meat is eaten.",
+    "meaning": "Big rewards require slow, careful effort and patience.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Hana wani, hana kai.",
+    "translation": "Forbidding another, forbidding yourself.",
+    "meaning": "Obstruction of others will eventually hinder your own life.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Hausa",
+    "proverb": "Da kunna ka ji, da jiki ya tsira.",
+    "translation": "Had the ear heard (the warning), the body would have escaped.",
+    "meaning": "Listen to advice to avoid suffering; heed warnings.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Udeme kiet ididaha nda.",
+    "translation": "One finger cannot lift a load.",
+    "meaning": "Unity and cooperation are necessary for heavy or important tasks.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Ọfọn utọrọ, ọfọn andi-tọrọ.",
+    "translation": "If it is good for the cholera, it is also good for its victim.",
+    "meaning": "What affects one person will eventually affect the whole community.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Kọp edem iba, ndien ọbụp ntak.",
+    "translation": "Hear from both sides, before you pronounce judgment.",
+    "meaning": "Always seek a balanced perspective before making a decision.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Mmọñ ibịene enyiñ ikpọñ.",
+    "translation": "Water does not wash the face alone.",
+    "meaning": "Problems or responsibilities often come in groups and must be faced together.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Mkpọ edi ke akpanikọ, edi ke nnyan.",
+    "translation": "A matter is true, but it is long.",
+    "meaning": "The truth can be complex and requires patience to fully understand or resolve.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Ekịkịm ọbọk owo, owo onyụn̄ ọbọk ekịkịm.",
+    "translation": "The monitor lizard raises a person, and the person also raises a monitor lizard.",
+    "meaning": "Mutual support and reciprocity are vital in relationships.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Ebe ebe, ekere ikọ.",
+    "translation": "When one wanders, one thinks.",
+    "meaning": "Travel and movement allow for quiet reflection and wisdom.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Eka n̄wan, eyen n̄wan; eka an̄wan, ete an̄wan.",
+    "translation": "A female child is a female, a male child is a male.",
+    "meaning": "Children are a blessing, regardless of gender.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Utọ idiaha, ikpọñ iduañ.",
+    "translation": "The soul that does not eat will not grow fat.",
+    "meaning": "Neglect leads to decline; you must nourish what you want to thrive.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Kpọk edet ke inua edekhe nte mkpai.",
+    "translation": "Your teeth in your mouth are firmly compacted together like a cluster of palm oil nuts.",
+    "meaning": "Emphasizes strength and solidity in unity.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Kpukpru usen ẹnyene inọ, usen kiet ẹnyene enyene inwãñ.",
+    "translation": "Every day is for the thief, one day is for the owner of the farm.",
+    "meaning": "The wrongdoer may succeed for a while, but justice will eventually prevail.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Ñsíné-ké ké úbóm énàñ é-síné-dé.",
+    "translation": "I cannot enter a canoe that carries a cow.",
+    "meaning": "Do not take on a risk that is clearly too great for you to bear.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Sé ákámbá ówò étié dé tié ó kút, éyénọwọñ ídáhá dá íkút.",
+    "translation": "The thing an elder sits down to see cannot be seen by a child who is standing.",
+    "meaning": "The wisdom of elders is gained through experience and cannot be rushed.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Ówó ákpá ké mmọñ, ọ-nwọñ mmọñ.",
+    "translation": "People die in water, they drink water.",
+    "meaning": "In life, the things that sustain us (water) can also destroy us; danger is often inherent in necessities.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Sóp ntè ídàñ, nyọnì ntè ékwòñ.",
+    "translation": "Be as fast as the arrow or be as slow as the snail.",
+    "meaning": "Be both decisive when necessary (fast) and patient (slow); adapt to the situation.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Udeme kiet ikpaha nda.",
+    "translation": "One finger cannot lift a load.",
+    "meaning": "Unity and collective effort are necessary to overcome difficult tasks.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Ókúk édí àkpàráwà.",
+    "translation": "Money makes a man.",
+    "meaning": "Financial power gives a person influence and respect.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Ọfiọk í-fíọkké été ọ-fíọk, ọ-fíọk.",
+    "translation": "A wise person does not know that others could be wiser, he is wise.",
+    "meaning": "True wisdom is characterized by humility and a recognition of one's limits.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Á-má ánwàn ówò ákàmà mkpá ísọn.",
+    "translation": "One who is having an illicit affair with another person's wife is on a death sentence.",
+    "meaning": "Be warned: Adultery and treachery lead to severe consequences.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Nnàn ényìn ínwáñ.",
+    "translation": "A bare-eyed blind (person).",
+    "meaning": "The person who pretends to be ignorant is often the one who sees the most.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Eka n̄wan, eyen n̄wan; eka an̄wan, ete an̄wan.",
+    "translation": "A female child is a female, a male child is a male.",
+    "meaning": "All children are equally valuable and are a source of pride.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Utọ idiaha, ikpọñ iduañ.",
+    "translation": "The soul that does not eat will not grow fat.",
+    "meaning": "You must nourish your mind and spirit, not just your body.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Kpọk edet ke inua edekhe nte mkpai.",
+    "translation": "Your teeth in your mouth are firmly compacted together like a cluster of palm oil nuts.",
+    "meaning": "Emphasizes the strength and protection found in familial or communal unity.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Kọp edem iba, ndien ọbụp ntak.",
+    "translation": "Hear from both sides, before you pronounce judgment.",
+    "meaning": "Justice requires listening to all perspectives.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Mkpọ edi ke akpanikọ, edi ke nnyan.",
+    "translation": "A matter is true, but it is long.",
+    "meaning": "The truth, though clear, may be complicated and require patience to unravel.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Ekịkịm ọbọk owo, owo onyụn̄ ọbọk ekịkịm.",
+    "translation": "The monitor lizard raises a person, and the person also raises a monitor lizard.",
+    "meaning": "Reciprocity in kindness and support sustains relationships.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Ebe ebe, ekere ikọ.",
+    "translation": "When one wanders, one thinks.",
+    "meaning": "Quiet time and distance from daily stress enable deep reflection.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Mmọñ ibịene enyiñ ikpọñ.",
+    "translation": "Water does not wash the face alone.",
+    "meaning": "Problems often come as a cluster and must be addressed as a whole.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Ọfọn utọrọ, ọfọn andi-tọrọ.",
+    "translation": "If it is good for the cholera, it is also good for its victim.",
+    "meaning": "Calamities and consequences affect everyone, including the instigator.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Udeme kiet ididaha nda.",
+    "translation": "One finger cannot lift a load.",
+    "meaning": "Strength is found in unity and teamwork.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Akan eka okukip esio.",
+    "translation": "A pot cover that is mightier than its (containing) pot.",
+    "meaning": "Beware of subordinates or followers who grow too powerful and try to surpass their master.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Ndísímé ńdísímé ọduọk ọkpọ ékpòròkò.",
+    "translation": "It is only a fool that throws away the bone of (a) stockfish.",
+    "meaning": "Value all resources, no matter how small; avoid wasteful foolishness.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Ófiọñ ọfiọñ á-tàk ké ùyài.",
+    "translation": "It is only the moon that is permanently beautiful.",
+    "meaning": "Beauty and good fortune are often fleeting; only the celestial is constant.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Ówó édí ínyéné.",
+    "translation": "Person is wealth.",
+    "meaning": "Relationships and community are the true source of wealth, not money.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Eyen ke ebre ye eka nte i-di-tua-ha tua.",
+    "translation": "The child plays with his mother as if he will not cry.",
+    "meaning": "Enjoy the present moment, but remember that hardship or consequence may follow.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Sík sàñ, sík sàñ, ọ-bọ ówó itie.",
+    "translation": "Shift a little, shift a little, it collects the person's seat.",
+    "meaning": "Excessive patience or deference can lead to losing your position or authority.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Ebe ebe, ekere ikọ.",
+    "translation": "When one wanders, one thinks.",
+    "meaning": "Distance and change of scenery allow for reflection and introspection.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Eka n̄wan, eyen n̄wan; eka an̄wan, ete an̄wan.",
+    "translation": "A female child is a female, a male child is a male.",
+    "meaning": "Respect all members of the community, regardless of gender.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Utọ idiaha, ikpọñ iduañ.",
+    "translation": "The soul that does not eat will not grow fat.",
+    "meaning": "Invest time and energy into what you want to grow.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Kpọk edet ke inua edekhe nte mkpai.",
+    "translation": "Your teeth in your mouth are firmly compacted together like a cluster of palm oil nuts.",
+    "meaning": "Unity within a group provides protection and strength.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Kọp edem iba, ndien ọbụp ntak.",
+    "translation": "Hear from both sides, before you pronounce judgment.",
+    "meaning": "Ensure fair judgment by gathering all information.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Mmọñ ibịene enyiñ ikpọñ.",
+    "translation": "Water does not wash the face alone.",
+    "meaning": "Problems are rarely isolated; they affect a wider system.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Mkpọ edi ke akpanikọ, edi ke nnyan.",
+    "translation": "A matter is true, but it is long.",
+    "meaning": "Patience is needed to deal with complex, long-running truths.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Ekịkịm ọbọk owo, owo onyụn̄ ọbọk ekịkịm.",
+    "translation": "The monitor lizard raises a person, and the person also raises a monitor lizard.",
+    "meaning": "Reciprocity and mutual benefit are the cornerstones of community.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Ọfọn utọrọ, ọfọn andi-tọrọ.",
+    "translation": "If it is good for the cholera, it is also good for its victim.",
+    "meaning": "Be careful when wishing harm on others; the consequence may touch you.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Udeme kiet ididaha nda.",
+    "translation": "One finger cannot lift a load.",
+    "meaning": "Cooperation is essential for overcoming great challenges.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Eyen ke ebre ye eka nte i-di-tua-ha tua.",
+    "translation": "The child plays with his mother as if he will not cry.",
+    "meaning": "Enjoy the good times, but stay prepared for eventual hardship.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Ówó édí ínyéné.",
+    "translation": "Person is wealth.",
+    "meaning": "Your network and people are your most valuable asset.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Ófiọñ ọfiọñ á-tàk ké ùyài.",
+    "translation": "It is only the moon that is permanently beautiful.",
+    "meaning": "Recognize the temporary nature of earthly beauty and status.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Kpukpru usen ẹnyene inọ, usen kiet ẹnyene enyene inwãñ.",
+    "translation": "Every day is for the thief, one day is for the owner of the farm.",
+    "meaning": "Wrongdoing is eventually exposed; be patient for justice.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Ñsíné-ké ké úbóm énàñ é-síné-dé.",
+    "translation": "I cannot enter a canoe that carries a cow.",
+    "meaning": "Know your limits and avoid unnecessary or overwhelming risk.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Sé ákámbá ówò étié dé tié ó kút, éyénọwọñ ídáhá dá íkút.",
+    "translation": "The thing an elder sits down to see cannot be seen by a child who is standing.",
+    "meaning": "Experience gives insight that cannot be obtained by mere observation.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Ówó ákpá ké mmọñ, ọ-nwọñ mmọñ.",
+    "translation": "People die in water, they drink water.",
+    "meaning": "The very things that support life also harbor danger.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Sóp ntè ídàñ, nyọnì ntè ékwòñ.",
+    "translation": "Be as fast as the arrow or be as slow as the snail.",
+    "meaning": "Be adaptable: act quickly when needed, and slowly when patience is required.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Udeme kiet ikpaha nda.",
+    "translation": "One finger cannot lift a load.",
+    "meaning": "Teamwork is paramount for success.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Ókúk édí àkpàráwà.",
+    "translation": "Money makes a man.",
+    "meaning": "Wealth brings respect and social influence.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Ọfiọk í-fíọkké été ọ-fíọk, ọ-fíọk.",
+    "translation": "A wise person does not know that others could be wiser, he is wise.",
+    "meaning": "Humility is a sign of true wisdom.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Á-má ánwàn ówò ákàmà mkpá ísọn.",
+    "translation": "One who is having an illicit affair with another person's wife is on a death sentence.",
+    "meaning": "Treachery in relationships has severe consequences.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Efik",
+    "proverb": "Nnàn ényìn ínwáñ.",
+    "translation": "A bare-eyed blind (person).",
+    "meaning": "The seemingly unaware person may be observing everything.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Ekpo akpa enyin, ikpaha utọn̄.",
+    "translation": "The spirit (dead person) is blind but not deaf.",
+    "meaning": "Be careful what you say, as secrets and actions have long-lasting consequences.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Enyịn usen kiet idụkke isọn.",
+    "translation": "One day's rain cannot penetrate deep into the soil.",
+    "meaning": "Perseverance is the key to success; greatness is achieved over time.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Uyai ufọk ndidi ufan.",
+    "translation": "The beauty of a house is its friend.",
+    "meaning": "A welcoming and well-kept environment attracts good company.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Eyen ete itiehe nte eyen eka.",
+    "translation": "A half-brother is not the same as a full brother.",
+    "meaning": "The relationship with your closest kin is the most important and reliable.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Ọfọn iyem obubịt ebot tọn̄ọ eyo idikịmme.",
+    "translation": "It is good to look for the dark goat before night falls.",
+    "meaning": "Prepare for challenges or solve problems before they become overwhelming.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Idem esie inamke, ufen inamke.",
+    "translation": "If the body does not suffer, the affliction does not suffer.",
+    "meaning": "Hardship is a necessary part of growth and learning.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Ama okop tap, aya n̄n̄ọ.",
+    "translation": "If you hear a warning, you will regret it (if you don't listen).",
+    "meaning": "Obstinacy leads to regret; heed warnings.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Udeme kiet ikpaha nda.",
+    "translation": "One finger cannot lift a load.",
+    "meaning": "Teamwork and unity are essential for heavy tasks.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "An̄wan ikwọñeke ke mben ntọ.",
+    "translation": "A fight does not end with the throwing down of the opponent.",
+    "meaning": "A setback is not the end; one must rise to fight another day.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Akan owo ikanna Abasi.",
+    "translation": "He who is greater than man is not greater than God.",
+    "meaning": "There is a limit to human power; divine power is ultimate.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Enyene ntọtọkọ mmọñ ke ikot.",
+    "translation": "He who possesses water has the path to the forest.",
+    "meaning": "The person who controls a vital resource holds the power.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Ekpo ubọk ọkọbọ owo.",
+    "translation": "Trouble often begins at home.",
+    "meaning": "Be cautious of jealousy and conflict that emanate from within your inner circle.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Akafe idañ atommo ikpaisọñ.",
+    "translation": "He who goes to the village hall greets the ancestors.",
+    "meaning": "Show respect to tradition and those who came before you.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Ọbọñ isibọññọ ikpọọñ.",
+    "translation": "A king does not shout alone.",
+    "meaning": "A leader requires the voice and support of his people.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Ayịneka ibenne aditịm, ayịneka ika ñkañ.",
+    "translation": "A brother does not take a brother's problem to charcoal.",
+    "meaning": "Problems within the family should be solved internally without public exposure.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Ufọk enyene ọkpọkọk.",
+    "translation": "The house has a key.",
+    "meaning": "Every problem has a specific solution that needs to be found.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Idem esie inamke, ufen inamke.",
+    "translation": "If the body does not suffer, the affliction does not suffer.",
+    "meaning": "Growth and learning often come through effort and discomfort.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Eyot ọnọk ke esa aba, aba idịghọke.",
+    "translation": "The eye sees in the trap, but the trap does not know.",
+    "meaning": "The enemy is unaware that they are being watched or monitored.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Ọfọn iyem obubịt ebot tọn̄ọ eyo idikịmme.",
+    "translation": "It is good to look for the dark goat before night falls.",
+    "meaning": "Address problems early, before they become insurmountable.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Akan owo ikanna Abasi.",
+    "translation": "He who is greater than man is not greater than God.",
+    "meaning": "Humble yourself; all power is limited by the divine.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Eyen ete itiehe nte eyen eka.",
+    "translation": "A half-brother is not the same as a full brother.",
+    "meaning": "Closeness and loyalty are strongest among those of the same mother.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Uyai ufọk ndidi ufan.",
+    "translation": "The beauty of a house is its friend.",
+    "meaning": "A welcoming home attracts good relationships.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Enyịn usen kiet idụkke isọn.",
+    "translation": "One day's rain cannot penetrate deep into the soil.",
+    "meaning": "Sustainable success requires consistent, long-term effort.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Ekpo akpa enyin, ikpaha utọn̄.",
+    "translation": "The spirit (dead person) is blind but not deaf.",
+    "meaning": "What you say can have unseen or lasting consequences.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Ama okop tap, aya n̄n̄ọ.",
+    "translation": "If you hear a warning, you will regret it (if you don't listen).",
+    "meaning": "Heed sound advice to avoid negative outcomes.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Udeme kiet ikpaha nda.",
+    "translation": "One finger cannot lift a load.",
+    "meaning": "Teamwork is required for any major undertaking.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "An̄wan ikwọñeke ke mben ntọ.",
+    "translation": "A fight does not end with the throwing down of the opponent.",
+    "meaning": "Do not give up after a setback; there is always another chance.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Udeme kiet ikpaha nda.",
+    "translation": "One finger cannot lift a load.",
+    "meaning": "Unity and collaboration are required for success.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Akan owo ikanna Abasi.",
+    "translation": "He who is greater than man is not greater than God.",
+    "meaning": "All human power is subject to the divine.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Ama okop tap, aya n̄n̄ọ.",
+    "translation": "If you hear a warning, you will regret it (if you don't listen).",
+    "meaning": "Pay attention to wisdom and warnings.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Ọfọn iyem obubịt ebot tọn̄ọ eyo idikịmme.",
+    "translation": "It is good to look for the dark goat before night falls.",
+    "meaning": "Procrastination can make problems impossible to solve.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Enyịn usen kiet idụkke isọn.",
+    "translation": "One day's rain cannot penetrate deep into the soil.",
+    "meaning": "Long-term dedication is needed for deep, lasting impact.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Ekpo akpa enyin, ikpaha utọn̄.",
+    "translation": "The spirit (dead person) is blind but not deaf.",
+    "meaning": "Be mindful of your words, as consequences may be unseen but felt.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Uyai ufọk ndidi ufan.",
+    "translation": "The beauty of a house is its friend.",
+    "meaning": "A pleasant environment attracts positive relationships.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Eyen ete itiehe nte eyen eka.",
+    "translation": "A half-brother is not the same as a full brother.",
+    "meaning": "Value the deep bond of immediate family over distant relations.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Idem esie inamke, ufen inamke.",
+    "translation": "If the body does not suffer, the affliction does not suffer.",
+    "meaning": "The lack of effort means the lack of consequence (both good and bad).",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Enyene ntọtọkọ mmọñ ke ikot.",
+    "translation": "He who possesses water has the path to the forest.",
+    "meaning": "Control over a vital resource gives one great leverage and influence.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Ekpo ubọk ọkọbọ owo.",
+    "translation": "Trouble often begins at home.",
+    "meaning": "Guard against internal threats and jealousies from those close to you.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Akafe idañ atommo ikpaisọñ.",
+    "translation": "He who goes to the village hall greets the ancestors.",
+    "meaning": "Respect the traditions and established order of the community.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Ọbọñ isibọññọ ikpọọñ.",
+    "translation": "A king does not shout alone.",
+    "meaning": "True leadership is supported by the people; it is not a solo effort.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Ayịneka ibenne aditịm, ayịneka ika ñkañ.",
+    "translation": "A brother does not take a brother's problem to charcoal.",
+    "meaning": "Maintain family privacy; solve internal disputes discreetly.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Ufọk enyene ọkpọkọk.",
+    "translation": "The house has a key.",
+    "meaning": "There is always a specific solution to a problem if one can find the key.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Idem esie inamke, ufen inamke.",
+    "translation": "If the body does not suffer, the affliction does not suffer.",
+    "meaning": "If you don't take action, you won't suffer or achieve anything significant.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Eyot ọnọk ke esa aba, aba idịghọke.",
+    "translation": "The eye sees in the trap, but the trap does not know.",
+    "meaning": "The observed party is unaware that they are under scrutiny.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Ọfọn iyem obubịt ebot tọn̄ọ eyo idikịmme.",
+    "translation": "It is good to look for the dark goat before night falls.",
+    "meaning": "Do your preparation and difficult tasks during the day, before nightfall (crisis).",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Akan owo ikanna Abasi.",
+    "translation": "He who is greater than man is not greater than God.",
+    "meaning": "Recognize the ultimate limit of human authority.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Eyen ete itiehe nte eyen eka.",
+    "translation": "A half-brother is not the same as a full brother.",
+    "meaning": "Value the deep bond of immediate family above all others.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Uyai ufọk ndidi ufan.",
+    "translation": "The beauty of a house is its friend.",
+    "meaning": "A good home life is built on strong friendships and hospitality.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Enyịn usen kiet idụkke isọn.",
+    "translation": "One day's rain cannot penetrate deep into the soil.",
+    "meaning": "Deep understanding or success requires consistent effort, not just a single event.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Ekpo akpa enyin, ikpaha utọn̄.",
+    "translation": "The spirit (dead person) is blind but not deaf.",
+    "meaning": "Be mindful of your words, as consequences may be unseen but lasting.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Ama okop tap, aya n̄n̄ọ.",
+    "translation": "If you hear a warning, you will regret it (if you don't listen).",
+    "meaning": "Heed good advice to avoid future pain.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Udeme kiet ikpaha nda.",
+    "translation": "One finger cannot lift a load.",
+    "meaning": "Collaboration is essential for significant tasks.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "An̄wan ikwọñeke ke mben ntọ.",
+    "translation": "A fight does not end with the throwing down of the opponent.",
+    "meaning": "A physical setback is not the final defeat; keep fighting the cause.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Udeme kiet ikpaha nda.",
+    "translation": "One finger cannot lift a load.",
+    "meaning": "Unity and strength in numbers are vital.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Akan owo ikanna Abasi.",
+    "translation": "He who is greater than man is not greater than God.",
+    "meaning": "All human authority is subject to the divine.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Ama okop tap, aya n̄n̄ọ.",
+    "translation": "If you hear a warning, you will regret it (if you don't listen).",
+    "meaning": "Listen carefully to warnings and counsel.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Ọfọn iyem obubịt ebot tọn̄ọ eyo idikịmme.",
+    "translation": "It is good to look for the dark goat before night falls.",
+    "meaning": "Address problems and do your work before the deadline or crisis.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Enyịn usen kiet idụkke isọn.",
+    "translation": "One day's rain cannot penetrate deep into the soil.",
+    "meaning": "True impact requires sustained effort over time.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Ekpo akpa enyin, ikpaha utọn̄.",
+    "translation": "The spirit (dead person) is blind but not deaf.",
+    "meaning": "Invisible consequences are often more powerful than visible ones.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Uyai ufọk ndidi ufan.",
+    "translation": "The beauty of a house is its friend.",
+    "meaning": "Hospitality and maintenance attract positive relationships.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Eyen ete itiehe nte eyen eka.",
+    "translation": "A half-brother is not the same as a full brother.",
+    "meaning": "The closest kinship bond holds the deepest value.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Idem esie inamke, ufen inamke.",
+    "translation": "If the body does not suffer, the affliction does not suffer.",
+    "meaning": "Without effort or action, there are no meaningful results or pain.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Enyene ntọtọkọ mmọñ ke ikot.",
+    "translation": "He who possesses water has the path to the forest.",
+    "meaning": "Controlling the essential resources grants power and access.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Ekpo ubọk ọkọbọ owo.",
+    "translation": "Trouble often begins at home.",
+    "meaning": "Be watchful of internal threats and close associates.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Akafe idañ atommo ikpaisọñ.",
+    "translation": "He who goes to the village hall greets the ancestors.",
+    "meaning": "Acknowledge and respect the community's history and leadership.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Ọbọñ isibọññọ ikpọọñ.",
+    "translation": "A king does not shout alone.",
+    "meaning": "Effective leadership requires the consensus and support of the people.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Ayịneka ibenne aditịm, ayịneka ika ñkañ.",
+    "translation": "A brother does not take a brother's problem to charcoal.",
+    "meaning": "Handle family matters discreetly and internally.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Ufọk enyene ọkpọkọk.",
+    "translation": "The house has a key.",
+    "meaning": "Complex problems have specific solutions that must be discovered.",
+    "timeOfDay": "AFTERNOON"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Idem esie inamke, ufen inamke.",
+    "translation": "If the body does not suffer, the affliction does not suffer.",
+    "meaning": "Avoidance of hardship means avoidance of growth.",
+    "timeOfDay": "EVENING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Eyot ọnọk ke esa aba, aba idịghọke.",
+    "translation": "The eye sees in the trap, but the trap does not know.",
+    "meaning": "The power of observation over the unaware object.",
+    "timeOfDay": "MORNING"
+  },
+  {
+    "language": "Ibibio",
+    "proverb": "Ọfọn iyem obubịt ebot tọn̄ọ eyo idikịmme.",
+    "translation": "It is good to look for the dark goat before night falls.",
+    "meaning": "Solve your problems early before they become more difficult.",
+    "timeOfDay": "AFTERNOON"
+  }
+]
