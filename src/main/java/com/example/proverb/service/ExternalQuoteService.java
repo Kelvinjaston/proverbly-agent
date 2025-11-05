@@ -31,6 +31,7 @@ public class ExternalQuoteService {
         this.offlineWebClient = offlineWebClient;
         this.proverbRepository = proverbRepository;
     }
+
     public ExternalQuote fetchRandomExternalQuote() {
         try {
             Map<?, ?>[] rawResponse = zenQuotesClient.get()
@@ -53,35 +54,42 @@ public class ExternalQuoteService {
             }
 
         } catch (Exception ex) {
-            logger.warn(" ZenQuotes API failed: {} — trying offline source...", ex.getMessage());
-
+            logger.warn("ZenQuotes API failed: {} — trying offline source...", ex.getMessage());
             try {
                 String jsonResponse = offlineWebClient.get()
                         .uri("/random")
                         .retrieve()
                         .bodyToMono(String.class)
                         .block();
-
-                ExternalQuote local = new ExternalQuote();
-                local.setContent(jsonResponse.replace("{\"quote\":", "")
+                String cleaned = jsonResponse
+                        .replace("{", "")
                         .replace("}", "")
                         .replace("\"", "")
-                        .trim());
+                        .replace("quote:", "")
+                        .replace("author:", "")
+                        .replace("h:null", "")
+                        .replace(",", "")
+                        .trim();
+
+                ExternalQuote local = new ExternalQuote();
+                local.setContent(cleaned);
                 local.setAuthor("Local Wisdom");
 
                 saveQuoteAsProverb(local, "Offline");
                 return local;
 
             } catch (Exception fallbackEx) {
-                logger.error(" Offline fallback failed: {}", fallbackEx.getMessage());
+                logger.error("Offline fallback failed: {}", fallbackEx.getMessage());
                 ExternalQuote backup = new ExternalQuote();
                 backup.setContent("Even when APIs fail, persistence wins the day.");
                 backup.setAuthor("AI Agent");
+
                 saveQuoteAsProverb(backup, "Fallback");
                 return backup;
             }
         }
     }
+
     private void saveQuoteAsProverb(ExternalQuote quote, String source) {
         try {
             Proverb proverb = new Proverb();
@@ -91,9 +99,9 @@ public class ExternalQuoteService {
             proverb.setCreatedAt(LocalDateTime.now());
 
             proverbRepository.save(proverb);
-            logger.info(" Saved new proverb from {} — \"{}\"", source, quote.getContent());
+            logger.info("Saved new proverb from {} — \"{}\"", source, quote.getContent());
         } catch (Exception e) {
-            logger.error(" Failed to save proverb from {}: {}", source, e.getMessage());
+            logger.error("Failed to save proverb from {}: {}", source, e.getMessage());
         }
     }
 }
