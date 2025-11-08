@@ -38,7 +38,6 @@ public class TelexWebhookController {
             if (sendQuote) {
                 ExternalQuote quote = externalQuoteService.fetchRandomExternalQuote();
 
-                // DEBUGGING: Log quote fetch result
                 logger.info("Quote fetch result: {}", quote);
 
                 if (quote != null && quote.getContent() != null) {
@@ -60,7 +59,6 @@ public class TelexWebhookController {
             } else {
                 Proverb proverb = proverbService.getRandomProverb();
 
-                // DEBUGGING: Log proverb fetch result
                 logger.info("Proverb fetch result: {}", proverb);
 
                 if (proverb != null) {
@@ -96,6 +94,43 @@ public class TelexWebhookController {
         response.put("service", "Proverbly Agent - Telex Integration");
         response.put("message", "✅ Ready to inspire!");
         return ResponseEntity.ok(response);
+    }
+
+    @PostMapping("/diagnostic")
+    public Map<String, Object> diagnosticTest(@RequestBody(required = false) Map<String, Object> payload) {
+        logger.info("Diagnostic test requested: {}", payload);
+
+        Map<String, Object> response = new HashMap<>();
+        Map<String, Object> diagnostic = new HashMap<>();
+
+        try {
+            Proverb randomProverb = proverbService.getRandomProverb();
+            diagnostic.put("proverbService", randomProverb != null ? "WORKING" : "FAILING - NULL");
+            diagnostic.put("proverbData", randomProverb);
+
+            ExternalQuote randomQuote = externalQuoteService.fetchRandomExternalQuote();
+            diagnostic.put("quoteService", randomQuote != null ? "WORKING" : "FAILING - NULL");
+            diagnostic.put("quoteData", randomQuote);
+
+            Proverb yorubaProverb = proverbService.getRandomByLanguage("yoruba");
+            diagnostic.put("yorubaProverb", yorubaProverb != null ? "WORKING" : "FAILING - NULL");
+
+            response.put("success", true);
+            response.put("diagnostic", diagnostic);
+            response.put("message", "Service diagnostic completed");
+
+        } catch (Exception e) {
+            logger.error("Diagnostic test failed: {}", e.getMessage(), e);
+            response.put("success", false);
+            response.put("error", e.getMessage());
+        }
+
+        return response;
+    }
+
+    @GetMapping("/diagnostic")
+    public Map<String, Object> diagnosticTestGet() {
+        return diagnosticTest(null);
     }
 
     @PostMapping("/webhook")
@@ -134,7 +169,6 @@ public class TelexWebhookController {
                         ? proverbService.getRandomByLanguage(detectedLanguage)
                         : proverbService.getRandomProverb();
 
-                // DEBUGGING: Log proverb search details
                 logger.info("Proverb search - Language: {}, Found: {}", detectedLanguage, proverb);
 
                 if (proverb != null) {
@@ -148,7 +182,6 @@ public class TelexWebhookController {
             } else if (message.contains("quote")) {
                 ExternalQuote quote = externalQuoteService.fetchRandomExternalQuote();
 
-                // DEBUGGING: Log quote fetch details
                 logger.info("Quote fetch - Found: {}", quote);
 
                 if (quote != null && quote.getContent() != null) {
@@ -162,7 +195,6 @@ public class TelexWebhookController {
                 }
 
             } else {
-                // For any other message, provide random inspiration
                 logger.info("No specific command detected, providing random inspiration");
                 return getRandomInspiration(payload).getBody();
             }
