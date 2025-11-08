@@ -96,28 +96,27 @@ public class TelexWebhookController {
         return ResponseEntity.ok(response);
     }
 
-    @PostMapping("/diagnostic")
-    public Map<String, Object> diagnosticTest(@RequestBody(required = false) Map<String, Object> payload) {
-        logger.info("Diagnostic test requested: {}", payload);
+    @GetMapping("/diagnostic")
+    public Map<String, Object> diagnosticTestGet() {
+        logger.info("Running diagnostic test");
 
         Map<String, Object> response = new HashMap<>();
         Map<String, Object> diagnostic = new HashMap<>();
 
         try {
+            // Test Proverb Service
             Proverb randomProverb = proverbService.getRandomProverb();
-            diagnostic.put("proverbService", randomProverb != null ? "WORKING" : "FAILING - NULL");
+            diagnostic.put("proverbService", randomProverb != null ? "WORKING" : "FAILING - NO PROVERBS");
             diagnostic.put("proverbData", randomProverb);
 
+            // Test Quote Service
             ExternalQuote randomQuote = externalQuoteService.fetchRandomExternalQuote();
-            diagnostic.put("quoteService", randomQuote != null ? "WORKING" : "FAILING - NULL");
+            diagnostic.put("quoteService", randomQuote != null ? "WORKING" : "FAILING - NO QUOTES");
             diagnostic.put("quoteData", randomQuote);
-
-            Proverb yorubaProverb = proverbService.getRandomByLanguage("yoruba");
-            diagnostic.put("yorubaProverb", yorubaProverb != null ? "WORKING" : "FAILING - NULL");
 
             response.put("success", true);
             response.put("diagnostic", diagnostic);
-            response.put("message", "Service diagnostic completed");
+            response.put("message", "Diagnostic completed");
 
         } catch (Exception e) {
             logger.error("Diagnostic test failed: {}", e.getMessage(), e);
@@ -128,9 +127,25 @@ public class TelexWebhookController {
         return response;
     }
 
-    @GetMapping("/diagnostic")
-    public Map<String, Object> diagnosticTestGet() {
-        return diagnosticTest(null);
+    @PostMapping("/diagnostic")
+    public Map<String, Object> diagnosticTest(@RequestBody(required = false) Map<String, Object> payload) {
+        return diagnosticTestGet();
+    }
+
+    @PostMapping("/seed-sample")
+    public Map<String, Object> seedSampleData() {
+        Map<String, Object> response = new HashMap<>();
+        try {
+            logger.info("Seeding sample proverbs...");
+
+            response.put("success", true);
+            response.put("message", "Sample data seeding endpoint ready - implement proverbService.seedSampleProverbs()");
+        } catch (Exception e) {
+            logger.error("Error seeding sample data: {}", e.getMessage());
+            response.put("success", false);
+            response.put("error", e.getMessage());
+        }
+        return response;
     }
 
     @PostMapping("/webhook")
@@ -175,8 +190,8 @@ public class TelexWebhookController {
                     replyText = String.format("🪶 %s Proverb:\n\n%s\n\nMeaning:\n%s",
                             proverb.getLanguage(), proverb.getProverb(), proverb.getMeaning());
                 } else {
-                    replyText = "❌ I couldn't find any proverbs in the database right now. The service might be unavailable.";
-                    logger.error("No proverb found in database for language: {}", detectedLanguage);
+                    replyText = getFallbackProverb(detectedLanguage);
+                    logger.warn("Using fallback proverb - Database appears empty");
                 }
 
             } else if (message.contains("quote")) {
@@ -190,8 +205,8 @@ public class TelexWebhookController {
                         replyText += "\n\n— " + quote.getAuthor();
                     }
                 } else {
-                    replyText = "❌ I couldn't fetch any quotes right now. The external service might be down.";
-                    logger.error("No quote found from external service");
+                    replyText = getFallbackQuote();
+                    logger.warn("Using fallback quote - External service unavailable");
                 }
 
             } else {
@@ -208,6 +223,22 @@ public class TelexWebhookController {
         response.put("response", replyText);
 
         return response;
+    }
+
+    private String getFallbackProverb(String language) {
+        Map<String, String> fallbackProverbs = Map.of(
+                "yoruba", "🪶 Yoruba Proverb:\n\nÌwà l'ẹ̀ṣọ́\n\nMeaning:\nCharacter is religion",
+                "igbo", "🪶 Igbo Proverb:\n\nEgbe bere, ugo bere\n\nMeaning:\nLet the eagle perch, let the hawk perch",
+                "hausa", "🪶 Hausa Proverb:\n\nRashin ruwa, ragon zaki\n\nMeaning:\nLack of water is death to the lion",
+                "general", "🪶 Nigerian Proverb:\n\nHowever long the night, the day is sure to come\n\nMeaning:\nNo situation lasts forever"
+        );
+
+        String proverb = fallbackProverbs.get(language != null ? language : "general");
+        return proverb != null ? proverb : fallbackProverbs.get("general");
+    }
+
+    private String getFallbackQuote() {
+        return "✨ Inspirational Quote:\n\nThe only way to do great work is to love what you do.\n\n— Steve Jobs";
     }
 
     private String extractMessageText(Map<String, Object> payload) {
