@@ -47,7 +47,7 @@ public class TelexWebhookController {
                     }
 
                     response.put("success", true);
-                    response.put("response", message);
+                    response.put("text", message); // FIX: Use 'text'
                     response.put("type", "quote");
                     response.put("content_type", "text");
                     response.put("author", quote.getAuthor() != null ? quote.getAuthor() : "Unknown");
@@ -66,7 +66,7 @@ public class TelexWebhookController {
                             proverb.getLanguage(), proverb.getProverb(), proverb.getMeaning());
 
                     response.put("success", true);
-                    response.put("response", message);
+                    response.put("text", message); // FIX: Use 'text'
                     response.put("type", "proverb");
                     response.put("content_type", "text");
                 } else {
@@ -79,7 +79,7 @@ public class TelexWebhookController {
             String fallbackMessage = "🌅 Keep pushing forward! Every day is a new opportunity.";
 
             response.put("success", true);
-            response.put("response", fallbackMessage);
+            response.put("text", fallbackMessage); // FIX: Use 'text'
             response.put("type", "fallback");
             response.put("content_type", "text");
         }
@@ -168,6 +168,19 @@ public class TelexWebhookController {
         return response;
     }
 
+    @GetMapping("/webhook")
+    public Map<String, Object> handleTelexValidation() {
+        // This handler ensures the URL responds to GET for validation checks.
+        Map<String, Object> response = new HashMap<>();
+
+        response.put("success", true);
+        response.put("text", "Proverbly Agent is validated and ready to receive POST messages.");
+        response.put("response_type", "in_channel");
+        response.put("content_type", "text");
+
+        return response;
+    }
+
     @PostMapping("/webhook")
     public Map<String, Object> handleTelexMessage(@RequestBody Map<String, Object> payload) {
         logger.info("Telex webhook message received: {}", payload);
@@ -180,7 +193,9 @@ public class TelexWebhookController {
             replyText = "👋 Welcome to *Proverbly Agent!* I'm ready to inspire you. Try `/inspire` or type a command like 'proverb'.";
 
             response.put("success", true);
-            response.put("response", replyText);
+            response.put("text", replyText); // FIX: Use 'text'
+            response.put("response_type", "in_channel"); // ADDED
+            response.put("content_type", "text"); // ADDED
             return response;
         }
 
@@ -236,16 +251,26 @@ public class TelexWebhookController {
 
             } else {
                 logger.info("No specific command detected, providing random inspiration");
-                return getRandomInspiration(payload).getBody();
+                // Call /inspire endpoint and get the response body
+                Map<String, Object> inspireResponse = getRandomInspiration(payload).getBody();
+
+                // Extract the content from the inspire response
+                if (inspireResponse != null && inspireResponse.containsKey("text")) {
+                    replyText = (String) inspireResponse.get("text");
+                } else {
+                    replyText = "I couldn't find anything inspiring right now, but I'm trying!";
+                }
             }
 
         } catch (Exception e) {
-            logger.error("Error in Telex message handler: {}", e.getMessage(), e);
-            replyText = "⚠️ Something went wrong fetching inspiration. Try again later.";
+            logger.error("CRITICAL ERROR IN MESSAGE HANDLER: {}", e.getMessage(), e);
+            replyText = "⚠️ Something went wrong fetching content, but remember: 'The only way to do great work is to love what you do.' – Steve Jobs";
         }
 
         response.put("success", true);
-        response.put("response", replyText);
+        response.put("text", replyText); // FIX: Use 'text'
+        response.put("response_type", "in_channel"); // ADDED
+        response.put("content_type", "text"); // ADDED
 
         return response;
     }
@@ -256,8 +281,8 @@ public class TelexWebhookController {
                 "igbo", "🪶 Igbo Proverb:\n\nEgbe bere, ugo bere\n\nMeaning:\nLet the eagle perch, let the hawk perch",
                 "hausa", "🪶 Hausa Proverb:\n\nRashin ruwa, ragon zaki\n\nMeaning:\nLack of water is death to the lion",
                 "efik", "🪶 Efik Proverb:\n\nUdeme kiet ididaha nda\n\nMeaning:\nOne finger cannot lift a load",
-                "ibibio", "🪶 Ibibio Proverb:\n\nEkpo akpa enyin, ikpaha utọn̄\n\nMeaning:\nThe spirit is blind but not deaf",
-                "general", "🪶 Nigerian Proverb:\n\nHowever long the night, the day is sure to come\n\nMeaning:\nNo situation lasts forever"
+                "ibibio", "𪎨 Ibibio Proverb:\n\nEkpo akpa enyin, ikpaha utọn̄\n\nMeaning:\nThe spirit is blind but not deaf",
+                "general", "𪎨 Nigerian Proverb:\n\nHowever long the night, the day is sure to come\n\nMeaning:\nNo situation lasts forever"
         );
 
         String proverb = fallbackProverbs.get(language != null ? language : "general");
