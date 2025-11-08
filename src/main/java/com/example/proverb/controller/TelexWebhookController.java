@@ -95,14 +95,18 @@ public class TelexWebhookController {
 
         String message = extractMessageText(payload);
         Map<String, Object> response = new HashMap<>();
+        String replyText;
 
         if (message == null || message.isBlank()) {
-            response.put("success", false);
-            response.put("text", "Please send a message or command. Try '/help' to see options.");
+            replyText = "👋 Welcome to *Proverbly Agent!* I'm ready to inspire you. Try `/inspire` or type a command like 'proverb'.";
+
+            response.put("success", true);
+            response.put("text", replyText);
+            response.put("response_type", "in_channel");
+            response.put("content_type", "text");
             return response;
         }
 
-        String replyText;
         Proverb proverb = null;
         String detectedLanguage;
 
