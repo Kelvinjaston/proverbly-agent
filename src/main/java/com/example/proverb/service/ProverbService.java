@@ -23,7 +23,7 @@ public class ProverbService {
     private final Map<String, Set<Long>> shownProverbsMap = new HashMap<>();
 
     private static final List<String> SUPPORTED_LANGUAGES =
-            List.of("Yoruba", "Igbo", "Hausa", "Efik", "Ibibio");
+            List.of("yoruba", "igbo", "hausa", "efik", "ibibio", "english");
 
     public Proverb getRandomProverb() {
         List<Proverb> all = proverbRepository.findAll();
@@ -33,11 +33,17 @@ public class ProverbService {
         return getUniqueProverb("ALL", all);
     }
     public Proverb getRandomByLanguage(String language) {
-        List<Proverb> list = proverbRepository.findByLanguageIgnoreCase(language);
-        if (list.isEmpty()) {
-            throw new ResourceNotFoundException("No proverb found for language: " + language);
+        try {
+            List<Proverb> list = proverbRepository.findByLanguageIgnoreCase(language);
+            if (list.isEmpty()) {
+                logger.warn("No proverbs found for language: {}, falling back to random", language);
+                return getRandomProverb();
+            }
+            return getUniqueProverb(language.toUpperCase(), list);
+        } catch (Exception e) {
+            logger.error("Error fetching {} proverb: {}", language, e.getMessage());
+            return getRandomProverb();
         }
-        return getUniqueProverb(language.toUpperCase(), list);
     }
     public List<Proverb> getAll() {
         List<Proverb> all = proverbRepository.findAll();

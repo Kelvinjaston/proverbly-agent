@@ -98,25 +98,45 @@ public class TelexWebhookController {
 
     @GetMapping("/diagnostic")
     public Map<String, Object> diagnosticTestGet() {
-        logger.info("Running diagnostic test");
+        logger.info("Running comprehensive diagnostic test");
 
         Map<String, Object> response = new HashMap<>();
         Map<String, Object> diagnostic = new HashMap<>();
 
         try {
-            // Test Proverb Service
-            Proverb randomProverb = proverbService.getRandomProverb();
-            diagnostic.put("proverbService", randomProverb != null ? "WORKING" : "FAILING - NO PROVERBS");
-            diagnostic.put("proverbData", randomProverb);
+            // Test Proverb Service - General
+            try {
+                Proverb randomProverb = proverbService.getRandomProverb();
+                diagnostic.put("proverbService", randomProverb != null ? "WORKING" : "FAILING - NO PROVERBS");
+                diagnostic.put("proverbData", randomProverb);
+            } catch (Exception e) {
+                diagnostic.put("proverbService", "FAILING - " + e.getMessage());
+            }
+
+            // Test All Nigerian Languages
+            Map<String, Object> languageTests = new HashMap<>();
+            for (String language : NIGERIAN_LANGUAGES) {
+                try {
+                    Proverb langProverb = proverbService.getRandomByLanguage(language);
+                    languageTests.put(language, langProverb != null ? "FOUND" : "NOT FOUND");
+                } catch (Exception e) {
+                    languageTests.put(language, "ERROR - " + e.getMessage());
+                }
+            }
+            diagnostic.put("languageProverbs", languageTests);
 
             // Test Quote Service
-            ExternalQuote randomQuote = externalQuoteService.fetchRandomExternalQuote();
-            diagnostic.put("quoteService", randomQuote != null ? "WORKING" : "FAILING - NO QUOTES");
-            diagnostic.put("quoteData", randomQuote);
+            try {
+                ExternalQuote randomQuote = externalQuoteService.fetchRandomExternalQuote();
+                diagnostic.put("quoteService", randomQuote != null ? "WORKING" : "FAILING - NO QUOTES");
+                diagnostic.put("quoteData", randomQuote);
+            } catch (Exception e) {
+                diagnostic.put("quoteService", "FAILING - " + e.getMessage());
+            }
 
             response.put("success", true);
             response.put("diagnostic", diagnostic);
-            response.put("message", "Diagnostic completed");
+            response.put("message", "Comprehensive diagnostic completed");
 
         } catch (Exception e) {
             logger.error("Diagnostic test failed: {}", e.getMessage(), e);
@@ -180,18 +200,23 @@ public class TelexWebhookController {
                         .findFirst()
                         .orElse(null);
 
-                proverb = (detectedLanguage != null)
-                        ? proverbService.getRandomByLanguage(detectedLanguage)
-                        : proverbService.getRandomProverb();
+                try {
+                    proverb = (detectedLanguage != null)
+                            ? proverbService.getRandomByLanguage(detectedLanguage)
+                            : proverbService.getRandomProverb();
 
-                logger.info("Proverb search - Language: {}, Found: {}", detectedLanguage, proverb);
+                    logger.info("Proverb search - Language: {}, Found: {}", detectedLanguage, proverb);
 
-                if (proverb != null) {
-                    replyText = String.format("🪶 %s Proverb:\n\n%s\n\nMeaning:\n%s",
-                            proverb.getLanguage(), proverb.getProverb(), proverb.getMeaning());
-                } else {
+                    if (proverb != null && proverb.getProverb() != null) {
+                        replyText = String.format("🪶 %s Proverb:\n\n%s\n\nMeaning:\n%s",
+                                proverb.getLanguage(), proverb.getProverb(), proverb.getMeaning());
+                    } else {
+                        replyText = getFallbackProverb(detectedLanguage);
+                        logger.warn("Proverb found but content is null, using fallback");
+                    }
+                } catch (Exception e) {
+                    logger.error("Error in proverb service: {}", e.getMessage());
                     replyText = getFallbackProverb(detectedLanguage);
-                    logger.warn("Using fallback proverb - Database appears empty");
                 }
 
             } else if (message.contains("quote")) {
@@ -230,6 +255,8 @@ public class TelexWebhookController {
                 "yoruba", "🪶 Yoruba Proverb:\n\nÌwà l'ẹ̀ṣọ́\n\nMeaning:\nCharacter is religion",
                 "igbo", "🪶 Igbo Proverb:\n\nEgbe bere, ugo bere\n\nMeaning:\nLet the eagle perch, let the hawk perch",
                 "hausa", "🪶 Hausa Proverb:\n\nRashin ruwa, ragon zaki\n\nMeaning:\nLack of water is death to the lion",
+                "efik", "🪶 Efik Proverb:\n\nUdeme kiet ididaha nda\n\nMeaning:\nOne finger cannot lift a load",
+                "ibibio", "🪶 Ibibio Proverb:\n\nEkpo akpa enyin, ikpaha utọn̄\n\nMeaning:\nThe spirit is blind but not deaf",
                 "general", "🪶 Nigerian Proverb:\n\nHowever long the night, the day is sure to come\n\nMeaning:\nNo situation lasts forever"
         );
 
