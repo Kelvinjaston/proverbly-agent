@@ -38,6 +38,9 @@ public class TelexWebhookController {
             if (sendQuote) {
                 ExternalQuote quote = externalQuoteService.fetchRandomExternalQuote();
 
+                // DEBUGGING: Log quote fetch result
+                logger.info("Quote fetch result: {}", quote);
+
                 if (quote != null && quote.getContent() != null) {
                     String message = "✨ Inspirational Quote:\n\n" + quote.getContent();
                     if (quote.getAuthor() != null && !quote.getAuthor().isEmpty()) {
@@ -50,11 +53,16 @@ public class TelexWebhookController {
                     response.put("content_type", "text");
                     response.put("author", quote.getAuthor() != null ? quote.getAuthor() : "Unknown");
                 } else {
+                    logger.error("Quote service returned null or empty content");
                     throw new Exception("Quote fetch returned null");
                 }
 
             } else {
                 Proverb proverb = proverbService.getRandomProverb();
+
+                // DEBUGGING: Log proverb fetch result
+                logger.info("Proverb fetch result: {}", proverb);
+
                 if (proverb != null) {
                     String message = String.format("🪶 Nigerian Proverb (%s):\n\n%s\n\nMeaning:\n%s",
                             proverb.getLanguage(), proverb.getProverb(), proverb.getMeaning());
@@ -64,6 +72,7 @@ public class TelexWebhookController {
                     response.put("type", "proverb");
                     response.put("content_type", "text");
                 } else {
+                    logger.error("Proverb service returned null");
                     throw new Exception("Proverb fetch returned null");
                 }
             }
@@ -125,29 +134,37 @@ public class TelexWebhookController {
                         ? proverbService.getRandomByLanguage(detectedLanguage)
                         : proverbService.getRandomProverb();
 
+                // DEBUGGING: Log proverb search details
+                logger.info("Proverb search - Language: {}, Found: {}", detectedLanguage, proverb);
+
                 if (proverb != null) {
-                    replyText = String.format("🪶 %s Proverb:\n%s\n\nMeaning:\n%s",
+                    replyText = String.format("🪶 %s Proverb:\n\n%s\n\nMeaning:\n%s",
                             proverb.getLanguage(), proverb.getProverb(), proverb.getMeaning());
                 } else {
-                    replyText = "I couldn't find a proverb right now. Try again or specify a language.";
+                    replyText = "❌ I couldn't find any proverbs in the database right now. The service might be unavailable.";
+                    logger.error("No proverb found in database for language: {}", detectedLanguage);
                 }
 
             } else if (message.contains("quote")) {
                 ExternalQuote quote = externalQuoteService.fetchRandomExternalQuote();
+
+                // DEBUGGING: Log quote fetch details
+                logger.info("Quote fetch - Found: {}", quote);
+
                 if (quote != null && quote.getContent() != null) {
-                    replyText = "💡 " + quote.getContent();
+                    replyText = "✨ Inspirational Quote:\n\n" + quote.getContent();
                     if (quote.getAuthor() != null && !quote.getAuthor().isEmpty()) {
                         replyText += "\n\n— " + quote.getAuthor();
                     }
                 } else {
-                    replyText = "Keep believing in yourself — brighter days are ahead!";
+                    replyText = "❌ I couldn't fetch any quotes right now. The external service might be down.";
+                    logger.error("No quote found from external service");
                 }
 
             } else {
-                replyText = "🌻 I'm here to inspire you! Try:\n" +
-                        "• `/quote` - Inspirational quote\n" +
-                        "• `/proverb` - Nigerian wisdom\n" +
-                        "• `/inspire` - A random pick!";
+                // For any other message, provide random inspiration
+                logger.info("No specific command detected, providing random inspiration");
+                return getRandomInspiration(payload).getBody();
             }
 
         } catch (Exception e) {
