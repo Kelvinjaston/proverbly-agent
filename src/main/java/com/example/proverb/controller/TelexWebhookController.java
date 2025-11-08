@@ -45,7 +45,7 @@ public class TelexWebhookController {
                     }
 
                     response.put("success", true);
-                    response.put("text", message);
+                    response.put("response", message);
                     response.put("type", "quote");
                     response.put("content_type", "text");
                     response.put("author", quote.getAuthor() != null ? quote.getAuthor() : "Unknown");
@@ -60,7 +60,7 @@ public class TelexWebhookController {
                             proverb.getLanguage(), proverb.getProverb(), proverb.getMeaning());
 
                     response.put("success", true);
-                    response.put("text", message);
+                    response.put("response", message);
                     response.put("type", "proverb");
                     response.put("content_type", "text");
                 } else {
@@ -72,7 +72,7 @@ public class TelexWebhookController {
             String fallbackMessage = "🌅 Keep pushing forward! Every day is a new opportunity.";
 
             response.put("success", true);
-            response.put("text", fallbackMessage);
+            response.put("response", fallbackMessage);
             response.put("type", "fallback");
             response.put("content_type", "text");
         }
@@ -101,9 +101,7 @@ public class TelexWebhookController {
             replyText = "👋 Welcome to *Proverbly Agent!* I'm ready to inspire you. Try `/inspire` or type a command like 'proverb'.";
 
             response.put("success", true);
-            response.put("text", replyText);
-            response.put("response_type", "in_channel");
-            response.put("content_type", "text");
+            response.put("response", replyText);
             return response;
         }
 
@@ -131,7 +129,7 @@ public class TelexWebhookController {
                     replyText = String.format("🪶 %s Proverb:\n%s\n\nMeaning:\n%s",
                             proverb.getLanguage(), proverb.getProverb(), proverb.getMeaning());
                 } else {
-                    replyText = "I couldn’t find a proverb right now. Try again or specify a language.";
+                    replyText = "I couldn't find a proverb right now. Try again or specify a language.";
                 }
 
             } else if (message.contains("quote")) {
@@ -158,9 +156,7 @@ public class TelexWebhookController {
         }
 
         response.put("success", true);
-        response.put("text", replyText);
-        response.put("response_type", "in_channel");
-        response.put("content_type", "text");
+        response.put("response", replyText);
 
         return response;
     }
