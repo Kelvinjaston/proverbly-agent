@@ -13,6 +13,8 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.client.reactive.ReactorClientHttpConnector;
 import org.springframework.web.reactive.function.client.ClientResponse;
 import org.springframework.web.reactive.function.client.WebClient;
+import org.springframework.web.servlet.config.annotation.CorsRegistry;
+import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 import reactor.netty.http.client.HttpClient;
@@ -23,7 +25,7 @@ import java.util.List;
 import java.util.Random;
 
 @Configuration
-public class WebClientConfig {
+public class WebClientConfig implements WebMvcConfigurer {
 
     private static final Logger logger = LoggerFactory.getLogger(WebClientConfig.class);
 
@@ -39,6 +41,16 @@ public class WebClientConfig {
     );
     private static final Random RANDOM = new Random();
 
+    @Override
+    public void addCorsMappings(CorsRegistry registry) {
+        registry.addMapping("/**")
+                .allowedOrigins("*")
+                .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
+                .allowedHeaders("*")
+                .exposedHeaders("*")
+                .maxAge(3600);
+        logger.info("✅ CORS configuration enabled for all origins");
+    }
     @Bean(name = "zenQuotesClient")
     public WebClient zenQuotesClient(WebClient.Builder builder) {
         try {
@@ -56,7 +68,6 @@ public class WebClientConfig {
 
         return quotableClient(builder);
     }
-
     @Bean(name = "quotableClient")
     public WebClient quotableClient(WebClient.Builder builder) {
         try {
